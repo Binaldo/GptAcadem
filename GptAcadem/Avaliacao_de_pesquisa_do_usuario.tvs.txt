@@ -1,0 +1,40 @@
+Pesquisa	Tarefa
+Gere um código Python para um sistema de gerenciamento de inventário com as seguintes funcionalidades: adicionar, remover e listar itens.	1
+Preciso de um resumo executivo sobre as últimas tendências tecnológicas na área de inteligência artificial.	0
+Me ajude a compor uma carta de apresentação convincente para uma vaga de engenheiro de software.	1
+O que é aprendizado de máquina e como ele se diferencia da inteligência artificial?	0
+Crie um cronograma detalhado para um projecto de desenvolvimento de software com prazos e marcos importantes.	1
+Explique os princípios fundamentais por trás da arquitetura de microsserviços em sistemas distribuídos.	0
+Forneça um guia passo a passo para implementar autenticação de dois fatores em um aplicativo web usando Python e Flask.	1
+Quais são as principais considerações ao projectar uma interface de usuário amigável para aplicativos móveis?	0
+Gostaria de algumas ideias criativas para promover um novo produto de beleza nas redes sociais.	0
+Me explique as principais diferenças entre as linguagens de programação Java e C++.	0
+Dê-me algumas sugestões de livros recentes sobre inteligência artificial para ler este ano.	0
+Qual é a importância do design responsivo no desenvolvimento de sites modernos?	0
+Pode me ajudar a criar um roteiro para um vídeo tutorial sobre machine learning para iniciantes?	1
+O que são redes neurais convolucionais e como elas são aplicadas no processamento de imagens?	0
+Qual é a melhor abordagem para otimizar o desempenho de consultas em um banco de dados relacional?	0
+Como posso melhorar a segurança do meu site WordPress?	0
+O que são algoritmos de aprendizado profundo e como eles diferem de outros algoritmos de machine learning?	0
+Quais são as práticas recomendadas para criar um currículo impactante para um cargo de cientista de dados?	0
+Pode me contar uma curiosidade interessante sobre a história da inteligência artificial?	0
+Elabore um algoritmo eficiente para ordenar uma lista encadeada em ordem crescente.	1
+Explique as aplicações práticas da álgebra linear na engenharia informática.	0
+Desenvolva uma consulta SQL para extrair dados específicos de uma tabela complexa de um banco de dados relacional.	1
+Pode me explicar as principais características do modelo OSI em redes de computadores?	0
+Projecte um banco de dados para um sistema de gerenciamento de biblioteca, incluindo tabelas e relações.	1
+Quais são as tendências atuais em segurança cibernética na área de engenharia informática?	0
+Escreva um código em C++ para implementar uma árvore de busca binária com operações de inserção e remoção.	1
+Dê-me sugestões de cursos online relevantes para aprimorar habilidades em desenvolvimento web.	0
+Desenvolva um algoritmo de criptografia simétrica para proteger dados confidenciais em um sistema.	1
+Qual é a diferença entre programação orientada a objetos e programação procedural?	0
+Elabore um plano de teste abrangente para um sistema de gerenciamento de projetos em Java.	1
+Pode sugerir algumas boas práticas para otimizar o desempenho de consultas SQL em grandes conjuntos de dados?	0
+Proponha uma arquitetura escalável para um aplicativo de comércio eletrônico baseado em nuvem.	0
+Como as redes neurais artificiais são aplicadas em reconhecimento de padrões na engenharia informática?	0
+Crie uma função em Python para resolver o problema da mochila usando programação dinâmica.	1
+Quais são as competências essenciais para um engenheiro de software?	0
+Desenhe um diagrama de classes UML para um sistema de reservas de hotéis online.	1
+Pode indicar ferramentas populares para desenvolvimento de aplicativos móveis na engenharia informática?	0
+Implemente um algoritmo de busca em largura para um grafo direcionado em Java.	1
+Qual é a importância da análise de algoritmos na resolução de problemas computacionais?	0
