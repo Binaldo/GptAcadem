@@ -1,0 +1,50 @@
+Texto	Assunto
+A Inteligência Artificial está revolucionando todos os setores da indústria.	0
+Python é uma linguagem de programação muito utilizada em ciência de dados.	1
+A elaboração de um trabalho acadêmico requer uma pesquisa aprofundada e uma escrita clara.	2
+ChatGPT é um modelo de linguagem AI desenvolvido pela OpenAI.	3
+Redes neurais são um componente chave da Inteligência Artificial.	0
+JavaScript é usado para tornar as páginas da web interativas.	1
+A revisão por pares é uma parte importante do processo de publicação acadêmica.	2
+ChatGPT pode gerar texto que parece ter sido escrito por um humano.	3
+O aprendizado de máquina é um subcampo da Inteligência Artificial.	0
+A depuração é uma habilidade essencial em programação.	1
+A citação adequada é crucial na elaboração de trabalhos acadêmicos.	2
+ChatGPT é treinado em uma variedade de fontes da internet.	3
+A Inteligência Artificial pode ser usada para criar sistemas de recomendação.	0
+A orientação a objetos é um paradigma de programação popular.	1
+A metodologia de pesquisa deve ser claramente definida em um trabalho acadêmico.	2
+ChatGPT pode ser usado para responder perguntas em linguagem natural.	3
+A visão computacional é uma aplicação importante da Inteligência Artificial.	0
+SQL é usado para gerenciar e manipular bancos de dados.	1
+A literatura existente deve ser revisada ao elaborar um trabalho acadêmico.	2
+ChatGPT pode gerar histórias, poemas e até código de programação.	3
+ChatGPT usa um modelo de linguagem transformer para gerar texto.	3
+A Inteligência Artificial está sendo usada para desenvolver assistentes virtuais inteligentes.	0
+C++ é uma linguagem de programação comumente usada para desenvolvimento de sistemas.	1
+A elaboração de um trabalho acadêmico requer uma compreensão clara do tópico de pesquisa.	2
+ChatGPT é capaz de gerar respostas coerentes e relevantes para uma variedade de entradas.	3
+A Inteligência Artificial pode ser usada para prever o comportamento do mercado de ações.	0
+Swift é a linguagem de programação preferida para o desenvolvimento de aplicativos iOS.	1
+A revisão por pares é uma parte importante do processo de publicação acadêmica.	2
+ChatGPT é baseado na arquitetura Transformer.	3
+A Inteligência Artificial está sendo usada para melhorar os sistemas de recomendação.	0
+Ruby é uma linguagem de programação dinâmica e de propósito geral.	1
+A estrutura de um trabalho acadêmico geralmente inclui uma introdução, revisão da literatura, metodologia, resultados e conclusão.	2
+ChatGPT pode ser usado para responder perguntas em linguagem natural.	3
+ChatGPT usa um modelo de linguagem transformer para gerar texto.	3
+A Inteligência Artificial está sendo usada para desenvolver assistentes virtuais inteligentes.	0
+Kotlin é uma linguagem de programação moderna usada para desenvolvimento Android.	1
+A elaboração de um trabalho acadêmico requer uma compreensão clara do tópico de pesquisa.	2
+ChatGPT é capaz de gerar respostas coerentes e relevantes para uma variedade de entradas.	3
+A Inteligência Artificial pode ser usada para prever o comportamento do mercado de ações.	0
+Scala é uma linguagem de programação funcional e orientada a objetos.	1
+A revisão por pares é uma parte importante do processo de publicação acadêmica.	2
+ChatGPT é baseado na arquitetura Transformer.	3
+A Inteligência Artificial está sendo usada para melhorar os sistemas de recomendação.	0
+Go é uma linguagem de programação compilada e estaticamente tipada.	1
+A estrutura de um trabalho acadêmico geralmente inclui uma introdução, revisão da literatura, metodologia, resultados e conclusão.	2
+ChatGPT pode ser usado para responder perguntas em linguagem natural.	3
+A Inteligência Artificial está sendo usada para desenvolver carros autônomos.	0
+Rust é uma linguagem de programação de sistemas com foco em segurança e desempenho.	1
+ChatGPT usa um modelo de linguagem transformer para gerar texto.	3
