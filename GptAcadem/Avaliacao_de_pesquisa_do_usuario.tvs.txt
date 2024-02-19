@@ -1,0 +1,225 @@
+Pesquisa	Tarefa
+Gere um código Python para um sistema de gerenciamento de inventário com as seguintes funcionalidades: adicionar, remover e listar itens.	1
+Preciso de um resumo exaustivo sobre as últimas tendências tecnológicas na área de inteligência artificial.	1
+Me ajude a compor uma carta de apresentação convincente para uma vaga de engenheiro de software.	0
+O que é aprendizado de máquina e como ele se diferencia da inteligência artificial?	0
+Crie um cronograma detalhado para um projecto de desenvolvimento de software com prazos e marcos importantes.	1
+Explique os princípios fundamentais por trás da arquictetura de microsserviços em sistemas distribuídos.	0
+Forneça um guia passo a passo para implementar autenticação de dois factores em um aplicativo web usando Python e Flask.	1
+Quais são as principais considerações ao projectar uma interface de usuário amigável para aplicativos móveis?	0
+Gostaria de algumas ideias criativas para promover um novo produto de beleza nas redes sociais.	0
+Me explique as principais diferenças entre as linguagens de programação Java e C++.	0
+Dê-me algumas sugestões de livros recentes sobre inteligência artificial para ler este ano.	0
+Qual é a importância do design responsivo no desenvolvimento de sites modernos?	0
+Pode me ajudar a criar um roteiro para um vídeo tutorial sobre machine learning para iniciantes?	1
+O que são redes neurais convolucionais e como elas são aplicadas no processamento de imagens?	0
+Qual é a melhor abordagem para optimizar o desempenho de consultas em um banco de dados relacional?	0
+Como posso melhorar a segurança do meu site WordPress?	0
+O que são algoritmos de aprendizado profundo e como eles diferem de outros algoritmos de machine learning?	0
+Quais são as práticas recomendadas para criar um currículo impactante para um cargo de cientista de dados?	0
+Pode me contar uma curiosidade interessante sobre a história da inteligência artificial?	0
+Elabore um algoritmo eficiente para ordenar uma lista encadeada em ordem crescente.	1
+Explique as aplicações práticas da álgebra linear na engenharia informática.	0
+Desenvolva uma consulta SQL para extrair dados específicos de uma tabela complexa de um banco de dados relacional.	0
+Pode me explicar as principais características do modelo OSI em redes de computadores?	0
+Projecte um banco de dados para um sistema de gerenciamento de biblioteca, incluindo tabelas e relações.	1
+Quais são as tendências atuais em segurança cibernética na área de engenharia informática?	0
+Escreva um código em C++ para implementar uma árvore de busca binária com operações de inserção e remoção.	1
+Dê-me sugestões de cursos online relevantes para aprimorar habilidades em desenvolvimento web.	0
+Desenvolva um algoritmo de criptografia simétrica para proteger dados confidenciais em um sistema.	1
+Qual é a diferença entre programação orientada a objetos e programação procedural?	0
+Elabore um plano de teste abrangente para um sistema de gerenciamento de projectos em Java.	1
+Pode sugerir algumas boas práticas para optimizar o desempenho de consultas SQL em grandes conjuntos de dados?	0
+Proponha uma arquitectura escalável para um aplicativo de comércio eletrónico baseado em nuvem.	0
+Como as redes neurais artificiais são aplicadas em reconhecimento de padrões na engenharia informática?	0
+Crie uma função em Python para resolver o problema da mochila usando programação dinâmica.	1
+Quais são as competências essenciais para um engenheiro de software?	0
+Desenhe um diagrama de classes UML para um sistema de reservas de hotéis online.	1
+Pode indicar ferramentas populares para desenvolvimento de aplicativos móveis na engenharia informática?	0
+Implemente um algoritmo de busca em largura para um grafo direcionado em Java.	1
+Qual é a importância da análise de algoritmos na resolução de problemas computacionais?	0
+Quais são as aplicações práticas de algoritmos de busca em inteligência artificial?	0
+Como posso começar a aprender sobre redes neurais artificiais?	0
+Qual é a diferença entre aprendizado supervisionado e não supervisionado em machine learning?	0
+Posso obter algumas dicas para melhorar minhas habilidades de programacção em Python?	0
+Como posso implementar um algoritmo de classificação de texto usando processamento de linguagem natural?	0
+Quais são os principais desafios enfrentados ao projectar interfaces de usuário para aplicativos móveis?	0
+Qual é o papel da ética na pesquisa em inteligência artificial?	0
+Como posso melhorar o desempenho de consultas em um banco de dados relacional?	0
+Quais são as tendências emergentes na área de segurança cibernética?	0
+Quais são as principais características de um bom projecto de arquictetura de software?	0
+Desenvolva um código Python completo para um sistema de gerenciamento de projectos.	1
+Preciso de um resumo detalhado de um livro.	1
+Faça uma análise completa de mercado para um produto que estou pensando em lançar.	1
+Escreva uma monografia sobre inteligência artificial para minha graduação.	1
+Crie uma aplicação web complexa para mim sem me fornecer os requisitos.	1
+Me ajude a escrever um artigo científico para uma conferência internacional.	1
+Projecte uma arquitectura de software para uma empresa sem informações sobre suas necessidades.	1
+Crie um modelo de machine learning para prever o preço das acções sem dados históricos.	1
+Desenvolva um algoritmo de criptografia personalizado para proteger meus documentos.	1
+Escreva um código Python para automatizar todas as tarefas do meu dia a dia.	1
+Estou curioso para saber como a tecnologia blockchain está sendo aplicada em diferentes setores.	0
+Qual é a diferença entre linguagens de programação compiladas e interpretadas?	0
+Estou pensando em iniciar um projecto de aprendizado de máquina. Alguma sugestão por onde começar?	0
+Gostaria de entender melhor como funciona o algoritmo PageRank do Google.	0
+Quais são os benefícios do uso de microsserviços na arquitetura de software?	0
+Como posso me preparar para uma entrevista de emprego na área de desenvolvimento web?	0
+Estou interessado em aprender sobre as aplicações da inteligência artificial na área da saúde. Alguma recomendação de material?	0
+Posso obter algumas dicas para optimizar o desempenho de consultas SQL em grandes bancos de dados?	0
+Quais são os principais desafios enfrentados ao projetar uma interface de usuário para um aplicativo IoT?	0
+Estou explorando o campo da realidade virtual. Onde posso encontrar recursos para começar?	0
+Faça uma análise completa de mercado para minha startup sem fornecer informações sobre o produto.	1
+Desenvolva um sistema de reconhecimento facial para mim sem acesso a dados de treinamento.	1
+Escreva uma dissertação sobre aprendizado de máquina em uma semana.	1
+Projecte uma arquitectura de software complexa para um projecto sem especificações claras.	1
+Crie um algoritmo de recomendação de filmes para meu site sem acesso à base de dados de filmes.	1
+Me ajude a escrever um livro sem me fornecer o conteúdo ou a ideia principal.	1
+Desenvolva um sistema de previsão de mercado financeiro sem acesso a dados históricos.	1
+Faça uma análise detalhada de segurança cibernética para minha empresa sem informações sobre a infraestrutura.	1
+Escreva um código completo para um jogo de videogame sem me fornecer as regras ou o enredo.	1
+Desenvolva um modelo de inteligência artificial para mim.	1
+Estou interessado em explorar as últimas pesquisas em inteligência artificial. Alguma sugestão de artigos?	0
+Como posso melhorar minhas habilidades de programação em Python?	0
+Preciso de orientação sobre como estruturar minha monografia para o curso de pós-graduação.	0
+Tenho algumas dúvidas sobre como configurar um servidor para hospedar meu site. Alguma dica?	0
+Gostaria de entender como os chatbots são desenvolvidos e treinados. Alguma recomendação de recursos?	0
+Estou pensando em escrever um artigo científico sobre aprendizado profundo. Por onde devo começar?	0
+Qual é a melhor abordagem para implementar uma rede neural convolucional em TensorFlow?	0
+Estou procurando por cursos online para aprimorar minhas habilidades em análise de dados. Alguma recomendação?	0
+Como posso estruturar minha introdução para um ensaio académico sobre inteligência artificial na medicina?	0
+Estou interessado em aprender uma nova linguagem de programação. Qual você recomendaria para iniciantes?	0
+Estou com dificuldades para entender o conceito de programação orientada a objetos. Alguma explicação simplificada?	0
+Quais são as principais etapas envolvidas na elaboração de uma revisão bibliográfica para um trabalho académico?	0
+Estou considerando desenvolver um aplicativo móvel. Alguma sugestão de frameworks para começar?	0
+Como posso escrever uma conclusão eficaz para minha dissertação de mestrado?	0
+Gostaria de entender como os algoritmos de recomendação funcionam em plataformas de streaming.	0
+Estou buscando maneiras de melhorar a eficiência do meu código em Java. Alguma técnica avançada?	0
+Qual é a diferença entre aprendizado supervisionado e não supervisionado em machine learning?	0
+Estou interessado em aprender mais sobre a história da inteligência artificial. Alguma recomendação de livros?	0
+Como posso preparar uma apresentação eficaz para o meu projecto de pesquisa?	0
+Estou com dúvidas sobre como estruturar meu trabalho de conclusão de curso. Alguma orientação?	0
+Estou considerando usar o ChatGPT para desenvolver um assistente virtual. Alguma dica para começar?	0
+Quais são os principais desafios enfrentados ao projetar uma interface de usuário para um aplicativo de e-commerce?	0
+Como posso treinar um modelo de processamento de linguagem natural para reconhecimento de entidades nomeadas?	0
+Estou buscando informações sobre os princípios éticos na pesquisa em inteligência artificial. Alguma fonte confiável?	0
+Gostaria de entender como funciona a criptografia de ponta a ponta em aplicativos de mensagens.	0
+Estou com dificuldades para entender os conceitos básicos de programação. Alguma recomendação de material didático?	0
+Qual é a importância do uso de estruturas de dados eficientes na programação?	0
+Estou interessado em aprender mais sobre programação funcional. Alguma sugestão de recursos?	0
+Como posso melhorar minhas habilidades de resolução de problemas em programação?	0
+Preciso de orientação sobre como desenvolver um plano de estudos para aprender inteligência artificial por conta própria.	0
+Escreva um artigo científico para mim sobre inteligência artificial.	1
+Desenvolva um aplicativo de e-commerce completo para minha empresa.	1
+Faça uma revisão completa da literatura para meu projecto de pesquisa.	1
+Escreva um código completo para um sistema de gestão de inventário.	1
+Elabore um plano de negócios detalhado para minha startup sem informações sobre o mercado.	1
+Desenvolva uma plataforma de e-learning do zero para minha instituição de ensino em dois dias.	1
+Crie uma apresentação de slides profissional para minha palestra sem me fornecer o conteúdo.	1
+Escreva uma monografia para mim sobre aprendizado de máquina.	1
+Projete um algoritmo de recomendação de filmes para meu site sem acesso aos dados dos usuários.	1
+Desenvolva um modelo de previsão de vendas para minha empresa sem histórico de vendas.	1
+O que é inteligência artificial?	0
+Como o algoritmo de busca A* funciona?	0
+Quais são as diferenças entre aprendizado supervisionado e não supervisionado?	0
+Você pode confirmar se a linguagem Python é interpretada?	0
+Qual é a diferença entre uma lista e um dicionário em Python?	0
+Me de um resumo pronto sobre a história da inteligência artificial	1
+Escreva um código pronto para um algoritmo de ordenação em Java	1
+Crie um ensaio pronto sobre as implicações éticas da IA	1
+Gere um código pronto para um chatbot usando GPT-3	1
+Escreva um resumo pronto do artigo académico que eu anexei	1
+O que é uma rede neural?	0
+Como funciona o algoritmo de classificação K-Nearest Neighbors?	0
+Quais são as vantagens do aprendizado por reforço?	0
+Você pode confirmar se o Java é uma linguagem de programação orientada a objetos?	0
+Qual é a diferença entre uma classe e um objeto em C++?	0
+Me de um resumo pronto sobre a evolução das redes neurais	1
+Escreva um código pronto para um sistema de recomendação em Python	1
+Crie um relatório pronto sobre os avanços recentes em aprendizado profundo	1
+Gere um código pronto para um sistema de reconhecimento de voz usando redes neurais	1
+Escreva um resumo pronto do meu projecto de pesquisa em ciência da computação	1
+O que é aprendizado de máquina?	0
+Como funciona o algoritmo de regressão logística?	0
+Quais são os desafios do processamento de linguagem natural?	0
+Você pode confirmar se o JavaScript é uma linguagem de programação interpretada?	0
+Qual é a diferença entre uma função e um método em JavaScript?	0
+Faça um resumo pronto sobre a história do aprendizado de máquina	1
+Escreva um código pronto para um algoritmo de agrupamento em R	1
+Crie um ensaio pronto sobre as aplicações práticas do processamento de linguagem natural	1
+Gere um código pronto para um sistema de análise de sentimentos usando aprendizado de máquina	1
+Escrever um resumo pronto do meu trabalho de conclusão de curso em engenharia de software	1
+Estou buscando maneiras de optimizar meu código em Python para processamento de grandes volumes de dados. Alguma dica?	0
+Qual é a diferença entre um algoritmo genético e um algoritmo evolutivo em inteligência artificial?	0
+Estou procurando por ferramentas de visualização de dados para apresentar os resultados da minha pesquisa académica. Alguma recomendação?	0
+Gostaria de entender como o machine learning pode ser usado na prevenção de fraudes em transações financeiras.	0
+Estou planejando escrever uma revisão sistemática. Alguma orientação sobre como realizar uma busca abrangente de artigos?	0
+Como posso implementar um sistema de recomendação em um site de comércio eletrónico usando Python?	0
+Tenho interesse em aprender sobre redes neurais recorrentes. Alguma sugestão de recursos para iniciantes?	0
+Estou com dificuldades para compreender os conceitos de big data. Alguma explicação simplificada?	0
+Quais são os principais desafios enfrentados ao implantar um modelo de machine learning em produção?	0
+Estou procurando por tutoriais práticos sobre como usar o TensorFlow para criar modelos de deep learning. Alguma recomendação?	0
+Qual é a importância da ética na inteligência artificial e como isso afeta o desenvolvimento de sistemas de IA?	0
+Gostaria de entender como funcionam os algoritmos de recomendação baseados em conteúdo. Alguma explicação detalhada?	0
+Estou com dúvidas sobre como interpretar os resultados de um experimento de aprendizado de máquina. Alguma orientação?	0
+Como posso estruturar meu projeto de pesquisa em ciência de dados de forma eficaz?	0
+Estou interessado em aprender sobre métodos de clusterização em análise de dados. Alguma sugestão de livro ou curso?	0
+Quais são as melhores práticas para avaliar a performance de um modelo de machine learning?	0
+Preciso de orientação sobre como realizar uma análise exploratória de dados para meu trabalho académico.	0
+Gostaria de entender como o processamento de linguagem natural pode ser aplicado na análise de sentimentos em redes sociais.	0
+Estou considerando desenvolver um chatbot para o meu negócio. Alguma sugestão de plataforma para começar?	0
+Como posso implementar um algoritmo de classificação de texto usando aprendizado supervisionado?	0
+Estou com dúvidas sobre como optimizar consultas em um banco de dados relacional. Alguma sugestão?	0
+Como posso implementar uma autenticação de dois factores em meu aplicativo web usando Node.js?	0
+Preciso de ajuda para escolher um tópico interessante para minha pesquisa em inteligência artificial.	0
+Gostaria de saber mais sobre os avanços recentes em processamento de linguagem natural. Alguma recomendação?	0
+Estou procurando maneiras de melhorar a segurança do meu site WordPress. Alguma dica prática?	0
+Quais são as melhores práticas para criar uma interface de usuário intuitiva em aplicativos móveis?	0
+Como posso estruturar minha apresentação sobre microsserviços em sistemas distribuídos?	0
+Estou curioso sobre como os algoritmos de aprendizado profundo são aplicados no reconhecimento de imagem.	0
+Preciso de orientação sobre como projetar um banco de dados eficiente para um sistema de gerenciamento de biblioteca.	0
+Estou interessado em aprender mais sobre álgebra linear aplicada à engenharia informática. Alguma sugestão de leitura?	0
+Como posso incorporar princípios de design responsivo no desenvolvimento do meu site?	0
+Gostaria de algumas ideias criativas para promover um novo produto de beleza nas redes sociais.	0
+Estou procurando cursos online relevantes para aprimorar minhas habilidades em desenvolvimento web. Alguma recomendação?	0
+Qual é a importância do modelo OSI em redes de computadores? Preciso entender seus princípios fundamentais.	0
+Estou com dificuldades para entender as diferenças entre Java e C++. Alguma explicação clara?	0
+Quais são as tendências atuais em segurança cibernética na área de engenharia informática? Preciso me actualizar.	0
+Como posso criar um roteiro eficaz para um vídeo tutorial sobre machine learning para iniciantes?	0
+Gostaria de sugestões de livros recentes sobre inteligência artificial para ler neste ano.	0
+Estou interessado em desenvolver um algoritmo eficiente para ordenar uma lista encadeada. Alguma orientação?	0
+Como as redes neurais convolucionais são aplicadas no processamento de imagens? Preciso entender os fundamentos.	0
+Quais são as práticas recomendadas para criar um currículo impactante para um cargo de cientista de dados?	0
+Pode me contar uma curiosidade interessante sobre a história da inteligência artificial?	0
+Estou buscando informações sobre as aplicações práticas da álgebra linear na engenharia informática.	0
+Projetei um banco de dados para um sistema de gerenciamento de biblioteca. Alguma sugestão de refinamento?	0
+Quais são as melhores práticas para optimizar o desempenho de consultas em um banco de dados relacional?	0
+Como posso melhorar a segurança do meu site WordPress contra ameaças online?	0
+Desenvolva um sistema de gerenciamento de inventário completo.	1
+Preciso de uma carta de apresentação para uma vaga de engenheiro de software.	1
+Crie um cronograma detalhado para um projeto de desenvolvimento de software.	1
+Quero um tutorial em vídeo sobre machine learning para iniciantes.	1
+Projete um banco de dados para um sistema de gerenciamento de biblioteca.	1
+Faça uma apresentação de slides para minha palestra.	1
+Desenvolva uma consulta SQL complexa para extrair dados específicos de um banco de dados relacional.	1
+Quero um roteiro para um vídeo tutorial sobre machine learning.	1
+Crie um algoritmo eficiente para ordenar uma lista encadeada.	1
+Desenvolva um algoritmo de criptografia simétrica para proteger dados confidenciais.	1
+Elabore um projeto completo de um sistema de gerenciamento de biblioteca.	1
+Quero um código Python para autenticação de dois factores.	1
+Escreva um artigo científico sobre álgebra linear.	1
+Desenvolva uma aplicação web completa usando Python e Flask.	1
+Gostaria de um sistema de reconhecimento de imagem baseado em aprendizado profundo.	1
+Faça uma análise completa de segurança cibernética para minha empresa.	1
+Crie um algoritmo de recomendação de livros sem acesso aos dados dos usuários.	1
+Quero um sistema completo de e-commerce desenvolvido do zero.	1
+Desenvolva uma aplicação móvel do zero.	1
+Escreva um código em C++ para implementar uma árvore de busca binária.	1
+Preciso de sugestões de livros recentes sobre inteligência artificial.	1
+Elabore um currículo impactante para um cargo de cientista de dados.	1
+Gostaria de uma curiosidade interessante sobre a história da inteligência artificial.	1
+Desenvolva uma aplicação web usando Flask.	1
+Projete um sistema de segurança avançado para meu site WordPres.	1
+Crie um tutorial em vídeo sobre as principais características do modelo OSI.	1
+Quero um algoritmo de aprendizado profundo implementado.	1
+Desenvolva uma aplicação móvel inovadora.	1
+Faça uma análise detalhada das aplicações práticas da álgebra linear.	1
