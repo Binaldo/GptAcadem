@@ -223,3 +223,82 @@ Crie um tutorial em vídeo sobre as principais características do modelo OSI.	1
 Quero um algoritmo de aprendizado profundo implementado.	1
 Desenvolva uma aplicação móvel inovadora.	1
 Faça uma análise detalhada das aplicações práticas da álgebra linear.	1
+Preciso de um algoritmo em Python para calcular o factorial de um número.	1
+Segue um exemplo simples em Python de como implementar uma busca binária.	0
+Você sabia que a linguagem de programação Python foi inspirada no programa de televisão Monty Python's Flying Circus?	0
+O que é o paradigma de programação orientada a objectos e como ele difere da programação procedural?	0
+Pode me enviar a solução completa para este exercício de programação em C++?	1
+Estou tendo problemas com a sintaxe de loop 'for' em Java, alguém pode me ajudar?	0
+Sabia que o primeiro computador eletrônico, o ENIAC, pesava mais de 27 toneladas e ocupava um espaço equivalente a uma sala inteira?	0
+Preciso urgentemente de um código em Java para resolver este problema de grafos.	1
+Segue um exemplo em C# de como declarar uma lista utilizando a classe List.	0
+O que é um banco de dados relacional e como ele difere de um banco de dados NoSQL?	0
+Você sabia que a linguagem de programação Ruby foi criada por Yukihiro Matsumoto em 1995 no Japão?	0
+Preciso entender como funciona a recursividade em algoritmos, pode me explicar de forma simples?	0
+Tem o código pronto para um programa que implemente o algoritmo de busca em largura?	1
+Qual é a diferença entre uma linguagem de programação interpretada e compilada?	0
+Estou confuso sobre a diferença entre 'git pull' e 'git fetch' no Git, alguém pode explicar?	0
+Preciso de um programa em Python que calcule o valor de π com precisão de 10 casas decimais.	0
+Segue um exemplo em JavaScript de como usar a função 'map' para transformar elementos de um array.	0
+O que são as estruturas de dados do tipo fila e pilha, e como elas são implementadas em linguagens de programação?	0
+Qual é a solução pronta em Java para um problema de árvore binária?	1
+Qual é a diferença entre um loop 'for' e um loop 'while' em linguagens de programação?	0
+Estou com dificuldades em entender como funciona o conceito de polimorfismo em Java, alguém pode explicar de forma simples?	0
+Preciso de um código pronto em Python para encontrar o menor elemento em uma lista.	1
+O que são os princípios SOLID em programação orientada a objetos e por que são importantes?	0
+Estou com dúvidas sobre o funcionamento dos ponteiros em linguagem C, alguém pode esclarecer?	0
+Qual é a diferença entre uma chave primária e uma chave estrangeira em bancos de dados relacionais?	0
+Preciso de um código pronto em Python para calcular a média de uma lista de números.	1
+Segue um exemplo em Ruby de como declarar uma classe com métodos e atributos.	0
+O que são as estruturas de controle de fluxo 'if', 'else' e 'else if' em linguagens de programação?	0
+Preciso entender como funciona a passagem de parâmetros por valor e por referência em linguagens de programação, pode explicar?	0
+Escreva um algoritmo completo para ordenar uma lista.	1
+O que é uma variável em programação?	0
+Escreva um ensaio completo sobre a história da computação.	1
+Como eu declaro uma variável em Python?	0
+Desenvolva um sistema completo de gerenciamento de banco de dados.	1
+Qual é a diferença entre Java e JavaScript?	0
+Escreva uma dissertação completa sobre a importância da segurança cibernética.	1
+Como eu uso um loop for em C++?	0
+Crie um aplicativo completo de previsão do tempo.	1
+O que significa 'compilação' em programação?	0
+Desenvolva um jogo completo de xadrez.	1
+Como eu faço um comentário em um código HTML.	0
+Escreva um relatório completo sobre a evolução da inteligência artificial.	1
+Qual é a sintaxe para uma função em JavaScript.	0
+Crie um site completo para uma loja online.	1
+O que é um array em programação?	0
+Desenvolva um programa completo de processamento de texto.	1
+Como eu uso condicionais if-else em Python?	0
+Escreva uma tese completa sobre a ética na inteligência artificial.	1
+Qual é a diferença entre um compilador e um interpretador?	0
+Crie um sistema completo de reservas para um hotel.	1
+Como eu faço uma consulta SQL para selecionar dados de uma tabela?	0
+Escreva um artigo completo sobre a influência da computação quântica no futuro da tecnologia.	1
+O que significa 'herança' em programação orientada a objectos?	0
+Desenvolva um aplicativo completo de rastreamento de fitness.	1
+Como eu uso a função map em JavaScript?	0
+Escreva um relatório completo sobre o impacto da tecnologia blockchain no setor financeiro.	1
+Qual é a sintaxe para criar uma classe em Java?	0
+Crie um sistema completo de gerenciamento de projectos.	1
+O que é um loop while em programação?	0
+Escreva uma dissertação completa sobre a privacidade de dados na era digital.	1
+Como eu faço uma função recursiva em Python?	0
+Desenvolva um aplicativo completo de aprendizado de idiomas.	1
+O que significa 'polimorfismo' em programação orientada a objectos?	0
+Escreva um ensaio completo sobre a importância do código aberto.	1
+Como eu uso a biblioteca pandas em Python?	0
+Crie um sistema completo de e-learning.	1
+Qual é a diferença entre == e === em JavaScript?	0
+Escreva um artigo completo sobre a revolução da Internet das Coisas.	1
+Como eu faço um switch case em C++?	0
+Desenvolva um jogo completo de plataforma.	1
+O que é um ponteiro em programação?	0
+Escreva um relatório completo sobre a evolução dos sistemas operacionais.	1
+Como eu uso a biblioteca numpy em Python?	0
+Crie um aplicativo completo de entrega de comida.	1
+O que significa 'encapsulamento' em programação orientada a objectos?	0
+Escreva uma tese completa sobre a influência da realidade virtual na educação.	1
+Como eu faço uma lista em Python?	0
+Desenvolva um sistema completo de controle de estoque.	1
+Qual é a diferença entre uma lista e um dicionário em Python?	0
