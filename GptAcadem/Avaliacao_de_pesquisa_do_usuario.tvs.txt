@@ -1,19 +1,33 @@
 Pesquisa	Tarefa
 Gere um código Python para um sistema de gerenciamento de inventário com as seguintes funcionalidades: adicionar, remover e listar itens.	1
+Gere um código para adicionar, remover e listar itens.  1
 Preciso de um resumo exaustivo sobre as últimas tendências tecnológicas na área de inteligência artificial.	1
-Me ajude a compor uma carta de apresentação convincente para uma vaga de engenheiro de software.	0
+Faça um resumo  sobre as últimas tendências tecnológicas na inteligência artificial.   1
+Me ajude a compor uma carta de apresentação convincente para uma vaga de engenheiro de software.	1
+Componha uma carta de apresentação  para uma vaga de engenheiro de software.  1
 O que é aprendizado de máquina e como ele se diferencia da inteligência artificial?	0
+O que é machine learning na inteligência artificial?  0
+Na IA, defina machine learning.  0
+Como o aprendizado de máquina se diferencia na inteligência artificial?  0
 Crie um cronograma detalhado para um projecto de desenvolvimento de software com prazos e marcos importantes.	1
+Crie um cronograma  para um projecto de desenvolvimento de software com todos elementos importantes.  1
 Explique os princípios fundamentais por trás da arquictetura de microsserviços em sistemas distribuídos.	0
+Quais são os princípios fundamentais da arquictetura de computadore?  0
 Forneça um guia passo a passo para implementar autenticação de dois factores em um aplicativo web usando Python e Flask.	1
+Dê o passos para implementar autenticação de dois factores em um aplicativo web.  0
 Quais são as principais considerações ao projectar uma interface de usuário amigável para aplicativos móveis?	0
-Gostaria de algumas ideias criativas para promover um novo produto de beleza nas redes sociais.	0
 Me explique as principais diferenças entre as linguagens de programação Java e C++.	0
+Qual é a diferenças entre Java e C++.  0
 Dê-me algumas sugestões de livros recentes sobre inteligência artificial para ler este ano.	0
+Sugira livros recentes sobre inteligência artificial.  0
 Qual é a importância do design responsivo no desenvolvimento de sites modernos?	0
+Para que serve a responsividade em site?  0
 Pode me ajudar a criar um roteiro para um vídeo tutorial sobre machine learning para iniciantes?	1
+Crie um roteiro para um tutorial sobre machine learning.  0
 O que são redes neurais convolucionais e como elas são aplicadas no processamento de imagens?	0
+Fale de redes neurais convolucionais.  0
 Qual é a melhor abordagem para optimizar o desempenho de consultas em um banco de dados relacional?	0
+Como optimiar o desemprenho de um banco de dados?  0
 Como posso melhorar a segurança do meu site WordPress?	0
 O que são algoritmos de aprendizado profundo e como eles diferem de outros algoritmos de machine learning?	0
 Quais são as práticas recomendadas para criar um currículo impactante para um cargo de cientista de dados?	0
