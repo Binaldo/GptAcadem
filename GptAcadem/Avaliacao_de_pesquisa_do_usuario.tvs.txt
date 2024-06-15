@@ -1,61 +1,77 @@
 Pesquisa	Tarefa
 Gere um código Python para um sistema de gerenciamento de inventário com as seguintes funcionalidades: adicionar, remover e listar itens.	1
-Gere um código para adicionar, remover e listar itens.  1
+Gere um código para adicionar, remover e listar itens.	1
 Preciso de um resumo exaustivo sobre as últimas tendências tecnológicas na área de inteligência artificial.	1
-Faça um resumo  sobre as últimas tendências tecnológicas na inteligência artificial.   1
+Faça um resumo  sobre as últimas tendências tecnológicas na inteligência artificial.	1
 Me ajude a compor uma carta de apresentação convincente para uma vaga de engenheiro de software.	1
-Componha uma carta de apresentação  para uma vaga de engenheiro de software.  1
+Componha uma carta de apresentação  para uma vaga de engenheiro de software.	1
 O que é aprendizado de máquina e como ele se diferencia da inteligência artificial?	0
-O que é machine learning na inteligência artificial?  0
-Na IA, defina machine learning.  0
-Como o aprendizado de máquina se diferencia na inteligência artificial?  0
+O que é machine learning na inteligência artificial?	0
+Na IA, defina machine learning.	0
+Como o aprendizado de máquina se diferencia na inteligência artificial?	0
 Crie um cronograma detalhado para um projecto de desenvolvimento de software com prazos e marcos importantes.	1
-Crie um cronograma  para um projecto de desenvolvimento de software com todos elementos importantes.  1
+Crie um cronograma  para um projecto de desenvolvimento de software com todos elementos importantes.	1
 Explique os princípios fundamentais por trás da arquictetura de microsserviços em sistemas distribuídos.	0
-Quais são os princípios fundamentais da arquictetura de computadore?  0
+Quais são os princípios fundamentais da arquictetura de computadores?	0
 Forneça um guia passo a passo para implementar autenticação de dois factores em um aplicativo web usando Python e Flask.	1
-Dê o passos para implementar autenticação de dois factores em um aplicativo web.  0
+Dê o passos para implementar autenticação de dois factores em um aplicativo web.	0
 Quais são as principais considerações ao projectar uma interface de usuário amigável para aplicativos móveis?	0
 Me explique as principais diferenças entre as linguagens de programação Java e C++.	0
-Qual é a diferenças entre Java e C++.  0
+Qual é a diferenças entre Java e C++.	0
 Dê-me algumas sugestões de livros recentes sobre inteligência artificial para ler este ano.	0
-Sugira livros recentes sobre inteligência artificial.  0
+Sugira livros recentes sobre inteligência artificial.	0
 Qual é a importância do design responsivo no desenvolvimento de sites modernos?	0
-Para que serve a responsividade em site?  0
+Para que serve a responsividade em site?	0
 Pode me ajudar a criar um roteiro para um vídeo tutorial sobre machine learning para iniciantes?	1
-Crie um roteiro para um tutorial sobre machine learning.  0
+Crie um roteiro para um tutorial sobre machine learning.	0
 O que são redes neurais convolucionais e como elas são aplicadas no processamento de imagens?	0
-Fale de redes neurais convolucionais.  0
+Fale de redes neurais convolucionais.	0
 Qual é a melhor abordagem para optimizar o desempenho de consultas em um banco de dados relacional?	0
-Como optimiar o desemprenho de um banco de dados?  0
+Como optimiar o desemprenho de um banco de dados?	0
 Como posso melhorar a segurança do meu site WordPress?	0
+Como melhorar a segurança de um site?	0
 O que são algoritmos de aprendizado profundo e como eles diferem de outros algoritmos de machine learning?	0
+Como funcionam os algoritmos de aprendizado profundo?	0
 Quais são as práticas recomendadas para criar um currículo impactante para um cargo de cientista de dados?	0
+Como criar um currículo para um cargo de cientista de dados?	0
+O que é eigido para uma vaga de cientista de dados?	0
 Pode me contar uma curiosidade interessante sobre a história da inteligência artificial?	0
+Fale da história da inteligência artificial.	0
 Elabore um algoritmo eficiente para ordenar uma lista encadeada em ordem crescente.	1
+Faça um algoritmo para ordenar uma lista em ordem crescente.	1
 Explique as aplicações práticas da álgebra linear na engenharia informática.	0
 Desenvolva uma consulta SQL para extrair dados específicos de uma tabela complexa de um banco de dados relacional.	0
+Faça uma consulta MySQL para obter dados específicos de uma tabela de um banco de dados.	1
 Pode me explicar as principais características do modelo OSI em redes de computadores?	0
+Fale mais do modelo OSI em redes de computadores.	0
 Projecte um banco de dados para um sistema de gerenciamento de biblioteca, incluindo tabelas e relações.	1
-Quais são as tendências atuais em segurança cibernética na área de engenharia informática?	0
+Faça um banco de dados completo com tabelas e seus respectivos relacionamentos.	1
+Quais são as tendências actuais em segurança cibernética na área de engenharia informática?	0
+Que exigências o ramo da segurança cibernética estão pedindo?	0
 Escreva um código em C++ para implementar uma árvore de busca binária com operações de inserção e remoção.	1
 Dê-me sugestões de cursos online relevantes para aprimorar habilidades em desenvolvimento web.	0
+Sugira cursos oline para que eu possa aperfeiçoar minhas habilidades de desenvolvimento web.	0
 Desenvolva um algoritmo de criptografia simétrica para proteger dados confidenciais em um sistema.	1
+Faça um algoritmo que criptografe e descriptografe uma informação.	1
 Qual é a diferença entre programação orientada a objetos e programação procedural?	0
 Elabore um plano de teste abrangente para um sistema de gerenciamento de projectos em Java.	1
-Pode sugerir algumas boas práticas para optimizar o desempenho de consultas SQL em grandes conjuntos de dados?	0
-Proponha uma arquitectura escalável para um aplicativo de comércio eletrónico baseado em nuvem.	0
+Proponha uma arquitectura escalável para um aplicativo de comércio electrónico baseado em nuvem.	0
 Como as redes neurais artificiais são aplicadas em reconhecimento de padrões na engenharia informática?	0
+Como os algoritmos de redes neurai conseguem identificar padrões e aprender a partir dos mesmos?	0
 Crie uma função em Python para resolver o problema da mochila usando programação dinâmica.	1
 Quais são as competências essenciais para um engenheiro de software?	0
 Desenhe um diagrama de classes UML para um sistema de reservas de hotéis online.	1
+Dê ideias para montar um sistema de reservas online para uma entidade.	0
 Pode indicar ferramentas populares para desenvolvimento de aplicativos móveis na engenharia informática?	0
+Quais são os programa e ferramentas para o desenvolvimento de aplicações móveis?	0
 Implemente um algoritmo de busca em largura para um grafo direcionado em Java.	1
 Qual é a importância da análise de algoritmos na resolução de problemas computacionais?	0
 Quais são as aplicações práticas de algoritmos de busca em inteligência artificial?	0
 Como posso começar a aprender sobre redes neurais artificiais?	0
+Que manuais ou matérias preciso estudar para começar a aprender sobre redes neurais artificiais?	0
 Qual é a diferença entre aprendizado supervisionado e não supervisionado em machine learning?	0
 Posso obter algumas dicas para melhorar minhas habilidades de programacção em Python?	0
+O que posso fazer para aperfeiçoar meu conhecimento em programação?	0
 Como posso implementar um algoritmo de classificação de texto usando processamento de linguagem natural?	0
 Quais são os principais desafios enfrentados ao projectar interfaces de usuário para aplicativos móveis?	0
 Qual é o papel da ética na pesquisa em inteligência artificial?	0
@@ -64,23 +80,27 @@ Quais são as tendências emergentes na área de segurança cibernética?	0
 Quais são as principais características de um bom projecto de arquictetura de software?	0
 Desenvolva um código Python completo para um sistema de gerenciamento de projectos.	1
 Preciso de um resumo detalhado de um livro.	1
-Faça uma análise completa de mercado para um produto que estou pensando em lançar.	1
+Faça um resumo detalhado do livro.	1
 Escreva uma monografia sobre inteligência artificial para minha graduação.	1
 Crie uma aplicação web complexa para mim sem me fornecer os requisitos.	1
+A partir dos pontos que eu vou destacar, crie uma aplicação web completa.	1
 Me ajude a escrever um artigo científico para uma conferência internacional.	1
+Escrever um artigo científico sobre a influência das IAs na educação.	1
 Projecte uma arquitectura de software para uma empresa sem informações sobre suas necessidades.	1
 Crie um modelo de machine learning para prever o preço das acções sem dados históricos.	1
 Desenvolva um algoritmo de criptografia personalizado para proteger meus documentos.	1
-Escreva um código Python para automatizar todas as tarefas do meu dia a dia.	1
-Estou curioso para saber como a tecnologia blockchain está sendo aplicada em diferentes setores.	0
+Escreva um código Python para automatizar todas as tarefas do meu dia-a-dia.	1
+Se eu quisesse criar um programa ou algoritmo para automatiar as tarefas do quotidiano, do que precisaria?	0
+Estou curioso para saber como a tecnologia blockchain está sendo aplicada em diferentes sectores.	0
 Qual é a diferença entre linguagens de programação compiladas e interpretadas?	0
 Estou pensando em iniciar um projecto de aprendizado de máquina. Alguma sugestão por onde começar?	0
 Gostaria de entender melhor como funciona o algoritmo PageRank do Google.	0
-Quais são os benefícios do uso de microsserviços na arquitetura de software?	0
+Quais são os benefícios do uso de microsserviços na arquitectura de software?	0
 Como posso me preparar para uma entrevista de emprego na área de desenvolvimento web?	0
 Estou interessado em aprender sobre as aplicações da inteligência artificial na área da saúde. Alguma recomendação de material?	0
 Posso obter algumas dicas para optimizar o desempenho de consultas SQL em grandes bancos de dados?	0
 Quais são os principais desafios enfrentados ao projetar uma interface de usuário para um aplicativo IoT?	0
+Quais são os desafios enfrentados ao projetar interfaces de usuário para um aplicativo de internet das coisas?	0
 Estou explorando o campo da realidade virtual. Onde posso encontrar recursos para começar?	0
 Faça uma análise completa de mercado para minha startup sem fornecer informações sobre o produto.	1
 Desenvolva um sistema de reconhecimento facial para mim sem acesso a dados de treinamento.	1
@@ -252,7 +272,7 @@ Preciso entender como funciona a recursividade em algoritmos, pode me explicar d
 Tem o código pronto para um programa que implemente o algoritmo de busca em largura?	1
 Qual é a diferença entre uma linguagem de programação interpretada e compilada?	0
 Estou confuso sobre a diferença entre 'git pull' e 'git fetch' no Git, alguém pode explicar?	0
-Preciso de um programa em Python que calcule o valor de π com precisão de 10 casas decimais.	0
+Preciso de um programa em Python que calcule o valor de p com precisão de 10 casas decimais.	0
 Segue um exemplo em JavaScript de como usar a função 'map' para transformar elementos de um array.	0
 O que são as estruturas de dados do tipo fila e pilha, e como elas são implementadas em linguagens de programação?	0
 Qual é a solução pronta em Java para um problema de árvore binária?	1
