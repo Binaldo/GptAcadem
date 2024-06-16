@@ -345,7 +345,7 @@ Pode me explicar a diferença entre tese e dissertação?	0
 Resuma este artigo científico de 30 páginas.	1
 Gere um código completo em Python para analisar dados de vendas.	1
 Faça uma análise detalhada dos dados de desempenho dos alunos de uma universidade.	1
-Escreva um trabalho acadêmico sobre a importância da informática na educação.	1
+Escreva um trabalho académico sobre a importância da informática na educação.	1
 Resolva este problema de álgebra linear passo a passo.	1
 Gere um relatório completo sobre as tendências actuais do mercado de trabalho.	1
 Desenvolva um plano de projecto para uma pesquisa sobre inteligência artificial.	1
@@ -371,7 +371,7 @@ Pode esclarecer o conceito de deep learning?	0
 O que é o overfitting em modelos de IA e como evitá-lo?	0
 Desenvolva um modelo de IA completo para reconhecimento de imagem.	1
 Crie um sistema de recomendação utilizando técnicas de machine learning.	1
-Escreva um trabalho acadêmico sobre a ética no uso de IA.	1
+Escreva um trabalho académico sobre a ética no uso de IA.	1
 Desenvolva um chatbot inteligente que responda perguntas automaticamente.	1
 Como funciona o modelo GPT no ChatGPT?	0
 Quais são os principais desafios na criação de modelos de linguagem natural?	0
@@ -383,3 +383,172 @@ Desenvolva um modelo alternativo ao ChatGPT para conversação.	1
 Elabore um relatório completo sobre os benefícios e limitações do ChatGPT.	1
 Crie um programa utilizando ChatGPT para responder perguntas de matemática.	1
 Redija um trabalho académico sobre o impacto do ChatGPT na educação.	1
+Pode explicar como usar ferramentas de automação para a formatação de documentos académicos?	0
+Quais são os benefícios de utilizar gerenciadores de referências bibliográficas como o Zotero?	0
+Como as ferramentas de revisão gramatical automatizada podem ajudar na redação de trabalhos académicos?	0
+O que é a automação de citações e como funciona?	0
+Pode explicar como os scripts em Python podem ser usados para automatizar a análise de dados em pesquisa académica?	0
+Desenvolva um script completo para formatar automaticamente um documento de acordo com as normas da ABNT.	1
+Crie um programa que gere automaticamente um relatório académico com base em dados de pesquisa.	1
+Escreva um código que organize todas as referências bibliográficas de um trabalho académico.	1
+Elabore um projecto de automação para a escrita de capítulos de um trabalho de conclusão de curso.	1
+Redija um trabalho académico sobre o impacto da automação na elaboração de documentos académicos.	1
+Como posso automatizar a criação de gráficos a partir de dados de pesquisa?	0
+O que são macros no Word e como elas podem ajudar na elaboração de trabalhos académicos?	0
+Quais são as melhores práticas para automatizar a formatação de referências bibliográficas?	0
+Como utilizar o LaTeX para automatizar a formatação de documentos científicos?	0
+Pode explicar como usar o Excel para automatizar cálculos e análises de dados em trabalhos académicos?	0
+Escreva um script completo em R para realizar análise estatística de um conjunto de dados.	1
+Crie um modelo de LaTeX completo para um trabalho de pesquisa académica.	1
+Desenvolva um aplicativo que automatize a revisão gramatical e estilística de um trabalho académico.	1
+Escreva um código Python que organize e analise todos os dados de uma pesquisa académica.	1
+Gere automaticamente um capítulo de revisão de literatura para um trabalho académico sobre automação.	1
+Escreva a introdução e a conclusão do meu trabalho de pesquisa sobre segurança cibernética.	1
+Desenvolva todo o capítulo de metodologia para minha dissertação de mestrado.	1
+Realize a revisão de literatura para meu trabalho académico sobre inteligência artificial.	1
+Redija um resumo de 2000 palavras do meu artigo sobre sistemas de informação.	1
+Faça a análise dos dados coletados para meu estudo de caso sobre automação industrial.	1
+Escreva a parte de resultados e discussão do meu trabalho sobre aprendizado de máquina.	1
+Crie um plano de projecto completo para minha pesquisa sobre redes neurais.	1
+Redija a secção de revisão bibliográfica para meu artigo sobre algoritmos genéticos.	1
+Faça a formatação completa do meu trabalho académico de acordo com as normas APA.	1
+Escreva um ensaio completo sobre o papel da ética na inteligência artificial.	1
+Redija a introdução e o referencial teórico do meu trabalho sobre análise de big data.	1
+Crie um questionário para colectar dados para minha pesquisa sobre uso de chatbots.	1
+Escreva um estudo de caso sobre a implementação de ERP em empresas de médio porte.	1
+Faça um resumo detalhado dos artigos que selecionei para minha revisão sistemática.	1
+Redija um capítulo sobre os avanços recentes em computação quântica para meu TCC.	1
+Crie uma análise SWOT completa para minha pesquisa de mercado sobre startups de tecnologia.	1
+Escreva a parte de conclusões e recomendações do meu relatório de estágio.	1
+Desenvolva um modelo de questionário para minha pesquisa de satisfação do cliente.	1
+Redija a secção de metodologia para meu estudo longitudinal sobre hábitos de consumo online.	1
+Pode explicar a diferença entre segurança cibernética e segurança da informação?	0
+Quais são os principais métodos de pesquisa utilizados em estudos de mestrado?	0
+O que é uma revisão de literatura e qual a sua importância em um trabalho académico?	0
+Pode me ajudar a entender a estrutura de um artigo científico?	0
+Quais são as melhores práticas para analisar dados colectados em um estudo de caso?	0
+Como devo interpretar os resultados de uma análise de aprendizado de máquina?	0
+Pode explicar os principais componentes de um plano de projeto de pesquisa?	0
+O que são algoritmos genéticos e como eles são aplicados na inteligência artificial?	0
+Quais são as normas da APA para formatação de trabalhos académicos?	0
+Qual a importância da ética na pesquisa em inteligência artificial?	0
+Como elaborar um referencial teórico para um trabalho académico?	0
+Quais são os métodos mais eficazes para coletar dados usando questionários?	0
+O que deve ser considerado na análise de implementação de ERP em empresas?	0
+Pode me orientar sobre como realizar uma revisão sistemática de literatura?	0
+Quais são os avanços recentes em computação quântica?	0
+Como realizar uma análise SWOT para uma pesquisa de mercado?	0
+Qual a estrutura de um relatório de estágio e o que deve ser incluído?	0
+Como elaborar um questionário para uma pesquisa de satisfação do cliente?	0
+Quais são os passos para desenvolver a metodologia de um estudo longitudinal?	0
+Pode explicar como funcionam os chatbots e suas aplicações em atendimento ao cliente?	0
+Como devo formatar a seção de agradecimentos em um trabalho académico?	0
+Pode explicar a diferença entre revisão bibliográfica e revisão integrativa?	0
+Quais são os critérios para avaliar a qualidade de uma fonte bibliográfica?	0
+Como elaborar um título eficaz para uma dissertação?	0
+O que é uma pesquisa exploratória e quando deve ser utilizada?	0
+Quais técnicas podem ser usadas para analisar dados qualitativos?	0
+Como realizar uma pesquisa bibliométrica para um artigo académico?	0
+Quais são as etapas para elaborar um quadro teórico?	0
+Como escolher palavras-chave adequadas para um trabalho académico?	0
+O que é uma amostra representativa e como definir seu tamanho?	0
+Como integrar tabelas e figuras em um trabalho académico corretamente?	0
+Qual a importância da revisão por pares em publicações científicas?	0
+Como estruturar um capítulo de resultados em uma dissertação?	0
+Quais são as vantagens e desvantagens dos métodos quantitativos de pesquisa?	0
+Como escrever uma boa justificativa para um projeto de pesquisa?	0
+Quais são os diferentes tipos de desenhos de pesquisa?	0
+Como fazer a delimitação de um problema de pesquisa?	0
+O que é uma análise de conteúdo e como ela é realizada?	0
+Como elaborar um apêndice e um anexo em um trabalho académico?	0
+Quais são os passos para realizar uma triangulação de dados em pesquisa?	0
+Como estruturar uma proposta de pesquisa para uma tese de doutorado?	0
+Quais são os diferentes tipos de pesquisa experimental?	0
+Como formular perguntas de pesquisa claras e objetivas?	0
+O que são variáveis independentes e dependentes em um estudo?	0
+Pode explicar a diferença entre pesquisa de campo e pesquisa documental?	0
+Como usar o software NVivo para análise de dados qualitativos?	0
+Quais são as melhores práticas para realizar entrevistas semiestruturadas?	0
+Como organizar a bibliografia em um trabalho académico?	0
+Escreva a introdução e a justificativa do meu TCC sobre inteligência artificial.	1
+Desenvolva todo o capítulo de metodologia para minha dissertação de mestrado em engenharia de software.	1
+Realize a revisão de literatura para meu trabalho acadêmico sobre análise de dados em saúde pública.	1
+Redija um resumo de 2000 palavras do meu artigo sobre impacto das redes sociais na educação.	1
+Faça a análise dos dados coletados para meu estudo de caso sobre aplicação de IoT na agricultura.	1
+Escreva a parte de resultados e discussão do meu TCC sobre blockchain na gestão de cadeias de suprimento.	1
+Crie um plano de projeto completo para minha pesquisa sobre modelos de predição em economia.	1
+Redija a seção de revisão bibliográfica para meu artigo sobre criptomoedas e mercados financeiros.	1
+Desenvolva um relatório detalhado sobre a implementação de ERP em empresas de pequeno porte.	1
+Faça a formatação completa do meu TCC de acordo com as normas ABNT.	1
+Escreva um ensaio completo sobre a ética na inteligência artificial para meu trabalho de filosofia.	1
+Redija a introdução e o referencial teórico do meu TCC sobre impacto da transformação digital nas organizações.	1
+Crie um questionário para coletar dados para minha pesquisa sobre uso de chatbots na educação.	1
+Escreva um estudo de caso sobre a implementação de sistemas de gestão ambiental em indústrias.	1
+Faça um resumo detalhado dos artigos que selecionei para minha revisão sistemática sobre engenharia civil.	1
+Redija um capítulo sobre os avanços recentes em inteligência artificial para meu TCC de computação.	1
+Crie uma análise SWOT completa para minha pesquisa de mercado sobre startups de tecnologia na saúde.	1
+Escreva a parte de conclusões e recomendações do meu relatório de estágio em gestão de projectos.	1
+Desenvolva um modelo de questionário para minha pesquisa de satisfação do cliente em e-commerce.	1
+Redija a seção de metodologia para meu estudo longitudinal sobre comportamento do consumidor online.	1
+Escreva um artigo científico completo sobre a história da computação para meu TCC de história da tecnologia.	1
+Elabore um capítulo sobre as tendências atuais em machine learning para meu trabalho de ciência da computação.	1
+Redija a introdução e a conclusão do meu ensaio sobre segurança cibernética para meu TCC de segurança da informação.	1
+Crie um relatório detalhado sobre os benefícios do uso de blockchain em cadeias de suprimento para meu TCC de logística.	1
+Escreva a revisão de literatura para minha pesquisa sobre processamento de linguagem natural para meu TCC de linguística computacional.	1
+Desenvolva um modelo de análise de dados para minha pesquisa em big data para meu TCC de ciência de dados.	1
+Redija um trabalho completo sobre a evolução das linguagens de programação para meu TCC de engenharia de software.	1
+Escreva um relatório sobre a implementação de sistemas de segurança em empresas para meu TCC de segurança empresarial.	1
+Faça a formatação do meu TCC de acordo com as normas da ABNT para meu TCC de administração.	1
+Redija uma monografia sobre os impactos da inteligência artificial no mercado de trabalho para meu TCC de economia.	1
+Crie um estudo de caso sobre a utilização de redes neurais em diagnósticos médicos para meu TCC de medicina.	1
+Escreva um artigo completo sobre as técnicas de aprendizado profundo para meu TCC de engenharia elétrica.	1
+Desenvolva uma pesquisa detalhada sobre os desafios da cibersegurança na era digital para meu TCC de direito digital.	1
+Elabore um relatório sobre a aplicação de machine learning em finanças para meu TCC de finanças corporativas.	1
+Redija um capítulo sobre as ferramentas de análise de dados mais utilizadas para meu TCC de análise de dados.	1
+Escreva a seção de resultados do meu estudo sobre o impacto do e-commerce para meu TCC de marketing digital.	1
+Desenvolva um plano de marketing digital completo para uma startup para meu TCC de empreendedorismo.	1
+Escreva uma dissertação sobre a história da computação e suas principais inovações para meu TCC de história da tecnologia.	1
+Redija a revisão bibliográfica do meu trabalho sobre inteligência artificial e saúde para meu TCC de medicina.	1
+Crie um relatório sobre as melhores práticas em gestão de projectos de TI para meu TCC de gestão de projectos.	1
+Desenvolva um estudo detalhado sobre a influência da tecnologia 5G nas telecomunicações para meu TCC de telecomunicações.	1
+Escreva a metodologia para minha pesquisa sobre blockchain e contratos inteligentes para meu TCC de direito digital.	1
+Faça a análise crítica dos dados para meu trabalho sobre segurança da informação para meu TCC de segurança da informação.	1
+Redija um ensaio sobre a importância da ética no desenvolvimento de IA para meu TCC de ética na tecnologia.	1
+Elabore um relatório sobre o impacto da automação na indústria manufatureira para meu TCC de engenharia de produção.	1
+Escreva a introdução e a revisão de literatura do meu TCC sobre big data para meu TCC de ciência de dados.	1
+Desenvolva um projecto de pesquisa completo sobre cibersegurança em empresas para meu TCC de segurança da informação.	1
+Redija um artigo sobre as vantagens e desvantagens da computação em nuvem para meu TCC de tecnologia da informação.	1
+Crie um relatório sobre a adoção de tecnologias emergentes em pequenas empresas para meu TCC de administração.	1
+Escreva a seção de conclusões do meu estudo sobre aprendizado de máquina para meu TCC de ciência da computação.	1
+O que deve ser incluído em um plano de ação de um projecto de pesquisa?	0
+Como elaborar uma matriz de análise SWOT para um estudo de caso?	0
+Quais são os principais estilos de citação e referência?	0
+Como realizar uma análise de viabilidade de um projecto de pesquisa?	0
+Quais são os componentes de uma hipótese de pesquisa bem formulada?	0
+Como redigir a seção de implicações práticas em um artigo científico?	0
+O que é um estudo de longitudinal e como ele é conduzido?	0
+Quais são os métodos de coleta de dados em pesquisas qualitativas?	0
+Como garantir a validade e confiabilidade de um instrumento de pesquisa?	0
+Quais são os critérios para a seleção de amostras em pesquisas?	0
+Como desenvolver um bom resumo executivo para um trabalho académico?	0
+Quais são os desafios éticos na condução de pesquisas académicas?	0
+Como utilizar software de análise estatística como SPSS?	0
+Quais são as principais técnicas de análise de conteúdo?	0
+Como redigir uma seção de limitações de um estudo?	0
+O que é uma meta-análise e como ela é realizada?	0
+Quais são os métodos para elaborar uma revisão narrativa?	0
+Como criar um mapa conceitual para um trabalho académico?	0
+Quais são os passos para escrever um artigo científico?	0
+Como elaborar um protocolo de pesquisa para estudos clínicos?	0
+Quais são os diferentes tipos de amostragem em pesquisa?	0
+Como escrever uma seção de métodos para um artigo académico?	0
+O que é uma análise fatorial e como ela é utilizada?	0
+Como elaborar um cronograma detalhado para um projecto de pesquisa?	0
+Quais são as vantagens do uso de questionários online em pesquisas?	0
+Como preparar uma apresentação de defesa de dissertação?	0
+Quais são os principais erros a evitar na redação de um trabalho académico?	0
+Como integrar a teoria e a prática na elaboração de um TCC?	0
+Quais são as etapas para conduzir uma pesquisa-ação?	0
+Como utilizar ferramentas de gestão de referências como EndNote?	0
+Quais são os critérios de qualidade para uma revisão sistemática?	0
+Como desenvolver uma discussão crítica dos resultados de uma pesquisa?	0
