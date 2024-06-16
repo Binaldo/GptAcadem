@@ -552,3 +552,53 @@ Quais são as etapas para conduzir uma pesquisa-ação?	0
 Como utilizar ferramentas de gestão de referências como EndNote?	0
 Quais são os critérios de qualidade para uma revisão sistemática?	0
 Como desenvolver uma discussão crítica dos resultados de uma pesquisa?	0
+Escreva o capítulo de revisão de literatura para minha dissertação sobre psicologia organizacional.	1
+Desenvolva um relatório detalhado sobre os impactos da inteligência artificial na educação.	1
+Faça uma análise estatística completa dos dados para meu estudo de mercado sobre startups.	1
+Redija um resumo executivo de 500 palavras para meu artigo sobre energias renováveis.	1
+Elabore um plano de projeto detalhado para minha pesquisa em medicina preventiva.	1
+Crie uma apresentação em PowerPoint sobre os avanços na área de biotecnologia.	1
+Escreva a introdução e a conclusão para meu trabalho sobre mudanças climáticas.	1
+Desenvolva um guia prático de implementação de sistemas ERP para minha monografia.	1
+Faça a análise SWOT de uma empresa real para meu projeto de empreendedorismo.	1
+Redija um artigo científico completo sobre os efeitos da poluição sonora na saúde mental.	1
+Escreva um relatório técnico sobre as aplicações da nanotecnologia na indústria farmacêutica.	1
+Elabore um estudo de caso sobre a gestão de crises em empresas de tecnologia.	1
+Desenvolva um modelo de questionário para minha pesquisa de campo sobre hábitos de consumo.	1
+Faça uma análise de viabilidade econômica para um projeto de construção sustentável.	1
+Redija um ensaio crítico sobre as implicações éticas da engenharia genética.	1
+Escreva a metodologia para meu estudo experimental sobre novos materiais na engenharia civil.	1
+Crie um plano estratégico de marketing para uma empresa fictícia de produtos naturais.	1
+Desenvolva um plano de negócios completo para uma startup de tecnologia educacional.	1
+Faça a formatação completa do meu TCC de acordo com as normas ABNT e APA.	1
+Redija uma monografia sobre a evolução da inteligência artificial na última década.	1
+Elabore um relatório sobre os desafios regulatórios para a indústria de biotecnologia.	1
+Escreva um artigo completo sobre as tendências emergentes em blockchain e criptomoedas.	1
+Desenvolva uma análise de mercado para uma empresa fictícia de desenvolvimento de software.	1
+Faça uma revisão crítica dos principais estudos sobre mudanças climáticas e seus impactos.	1
+Redija um relatório técnico sobre a aplicação de realidade aumentada na educação infantil.	1
+Elabore um plano de comunicação estratégica para um projeto de sustentabilidade ambiental.	1
+Escreva um ensaio sobre a relação entre inteligência artificial e privacidade de dados.	1
+Desenvolva um estudo de caso sobre a implementação de lean manufacturing em uma indústria automotiva.	1
+Faça uma análise de custo-benefício para a implantação de energias renováveis em uma cidade.	1
+Redija um artigo científico completo sobre as aplicações da robótica na medicina moderna.	1
+Elabore um relatório sobre as estratégias de marketing digital para uma startup de e-commerce.	1
+Escreva a revisão de literatura para meu trabalho sobre a evolução dos sistemas de informação.	1
+Desenvolva um plano de implementação de um sistema de gestão de qualidade para uma empresa.	1
+Faça uma análise comparativa entre diferentes metodologias ágeis de desenvolvimento de software.	1
+Redija um manual técnico sobre o uso de inteligência artificial na detecção de fraudes financeiras.	1
+Elabore um estudo de caso sobre a adoção de tecnologias de Internet das Coisas (IoT) na agricultura.	1
+Escreva um relatório sobre as políticas de responsabilidade social corporativa em empresas globais.	1
+Desenvolva um guia prático de implementação de sistemas de gestão ambiental para indústrias.	1
+Faça uma análise de impacto ambiental para um projeto de infraestrutura urbana sustentável.	1
+Redija um artigo sobre as implicações legais da inteligência artificial no setor jurídico.	1
+Elabore um plano estratégico de recursos humanos para uma empresa de tecnologia da informação.	1
+Escreva a introdução e o referencial teórico para meu TCC sobre inovações em biotecnologia.	1
+Desenvolva um relatório sobre as melhores práticas em gestão de projetos de engenharia.	1
+Faça uma análise de mercado para um novo produto tecnológico na indústria automobilística.	1
+Redija um ensaio crítico sobre os desafios éticos da inteligência artificial na saúde.	1
+Elabore um plano de marketing digital para uma campanha de conscientização ambiental.	1
+Escreva a metodologia para meu estudo de caso sobre a implementação de blockchain em finanças.	1
+Desenvolva um estudo de viabilidade econômica para um projeto de energia solar residencial.	1
+Faça uma análise SWOT para uma empresa fictícia de consultoria em tecnologia da informação.	1
+Redija um artigo sobre as implicações sociais da automação no mercado de trabalho.	1
