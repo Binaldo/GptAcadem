@@ -335,3 +335,51 @@ Escreva uma tese completa sobre a influência da realidade virtual na educação
 Como eu faço uma lista em Python?	0
 Desenvolva um sistema completo de controle de estoque.	1
 Qual é a diferença entre uma lista e um dicionário em Python?	0
+Qual a diferença entre metodologia qualitativa e quantitativa?	0
+Qual a importância da gestão do tempo em projetos académicos?	0
+O que significa a expressão 'paradigma científico'?	0
+Como o trabalho em equipe pode beneficiar a pesquisa académica?	0
+Quais são os principais métodos de análise de dados?	0
+Quais são os passos para conduzir uma revisão bibliográfica?	0
+Pode me explicar a diferença entre tese e dissertação?	0
+Resuma este artigo científico de 30 páginas.	1
+Gere um código completo em Python para analisar dados de vendas.	1
+Faça uma análise detalhada dos dados de desempenho dos alunos de uma universidade.	1
+Escreva um trabalho acadêmico sobre a importância da informática na educação.	1
+Resolva este problema de álgebra linear passo a passo.	1
+Gere um relatório completo sobre as tendências actuais do mercado de trabalho.	1
+Desenvolva um plano de projecto para uma pesquisa sobre inteligência artificial.	1
+Redija um texto argumentativo sobre a ética na inteligência artificial.	1
+Elabore um questionário para uma pesquisa de satisfação do cliente.	1
+Pode explicar o conceito de sistemas operacionais?	0
+Quais são as principais diferenças entre software livre e software proprietário?	0
+O que é um sistema de gestão de banco de dados (SGBD)?	0
+Como a computação em nuvem está mudando o panorama da informática?	0
+Escreva um relatório detalhado sobre a evolução dos sistemas operacionais.	1
+Crie um projecto completo de rede de computadores para uma empresa.	1
+Faça uma análise comparativa de desempenho entre diferentes SGBDs.	1
+Redija um trabalho académico sobre as melhores práticas em cibersegurança.	1
+O que são estruturas de dados e por que são importantes?	0
+Qual a função de um compilador em linguagens de programação?	0
+Pode explicar o conceito de algoritmos de ordenação?	0
+O que é a programação assíncrona e como ela funciona?	0
+Crie um aplicativo móvel que gerencie listas de tarefas.	1
+Desenvolva um algoritmo de aprendizado de máquina para prever preços de ações.	1
+Elabore um projeto de software para um sistema de reservas de voos.	1
+Qual a importância do conjunto de dados em modelos de aprendizado de máquina?	0
+Pode esclarecer o conceito de deep learning?	0
+O que é o overfitting em modelos de IA e como evitá-lo?	0
+Desenvolva um modelo de IA completo para reconhecimento de imagem.	1
+Crie um sistema de recomendação utilizando técnicas de machine learning.	1
+Escreva um trabalho acadêmico sobre a ética no uso de IA.	1
+Desenvolva um chatbot inteligente que responda perguntas automaticamente.	1
+Como funciona o modelo GPT no ChatGPT?	0
+Quais são os principais desafios na criação de modelos de linguagem natural?	0
+Pode explicar o conceito de fine-tuning em modelos de linguagem?	0
+Como o ChatGPT utiliza o processamento de linguagem natural (NLP)?	0
+Qual a importância do contexto nas respostas geradas pelo ChatGPT?	0
+Escreva uma análise detalhada das capacidades do ChatGPT em diferentes tarefas.	1
+Desenvolva um modelo alternativo ao ChatGPT para conversação.	1
+Elabore um relatório completo sobre os benefícios e limitações do ChatGPT.	1
+Crie um programa utilizando ChatGPT para responder perguntas de matemática.	1
+Redija um trabalho académico sobre o impacto do ChatGPT na educação.	1
