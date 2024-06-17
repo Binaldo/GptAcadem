@@ -598,22 +598,3 @@ Desenvolva um relatório sobre as melhores práticas em gestão de projectos de 
 Faça uma análise de mercado para um novo produto tecnológico na indústria automobilística.	1
 Redija um ensaio crítico sobre os desafios éticos da inteligência artificial na saúde.	1
 Elabore um plano de marketing digital para uma campanha de conscientização ambiental.	1
-Escreva a metodologia para meu estudo de caso sobre a implementação de blockchain em finanças.	1
-Desenvolva um estudo de viabilidade econômica para um projecto de energia solar residencial.	1
-Faça uma análise SWOT para uma empresa fictícia de consultoria em tecnologia da informação.	1
-Redija um artigo sobre as implicações sociais da automação no mercado de trabalho.	1
-Desenvolva um programa em Python para resolver um problema de árvore binária sem consultar tutoriais.	1
-Escreva um código completo em C++ para implementar um algoritmo de ordenação eficiente.	1
-Crie um aplicativo móvel para iOS que funcione como um gerenciador de tarefas semelhante ao Trello.	1
-Implemente um sistema de recomendação baseado em filtragem colaborativa usando Java.	1
-Desenvolva um algoritmo em MATLAB para processar sinais de ECG e identificar anomalias.	1
-Escreva um script em Bash para automatizar a instalação de um conjunto de pacotes no Linux.	1
-Crie um banco de dados MySQL para armazenar informações de clientes de uma loja virtual.	1
-Implemente um algoritmo de mineração de dados em R para analisar padrões de consumo em dados de mercado.	1
-Desenvolva um jogo simples em Unity utilizando C# para simular um ambiente de simulação de tráfego.	1
-Escreva um programa em Java para calcular a soma de números primos até um determinado limite sem utilizar bibliotecas externas.	1
-Implemente um sistema de banco de dados NoSQL usando MongoDB para armazenar dados não estruturados.	1
-Escreva um código em Swift para desenvolver um aplicativo iOS de reconhecimento de músicas.	1
-Crie um programa em Perl para realizar análise de texto e extrair informações relevantes.	1
-Desenvolva um algoritmo de roteamento em redes em C++ para otimizar o fluxo de dados em uma rede complexa.	1
-Implemente um sistema de recomendação de filmes em Python utilizando filtragem colaborativa.	1
