@@ -612,20 +612,6 @@ Crie um banco de dados MySQL para armazenar informações de clientes de uma loj
 Implemente um algoritmo de mineração de dados em R para analisar padrões de consumo em dados de mercado.	1
 Desenvolva um jogo simples em Unity utilizando C# para simular um ambiente de simulação de tráfego.	1
 Escreva um programa em Java para calcular a soma de números primos até um determinado limite sem utilizar bibliotecas externas.	1
-Crie um sistema de controle de versão usando Git para gerenciar um projecto de software em equipe.	1
-Desenvolva um algoritmo genético em Python para otimizar o layout de uma fábrica.	1	
-Implemente um algoritmo de aprendizado de máquina para prever o preço de ações usando TensorFlow.	1
-Escreva um script em Perl para realizar a análise estatística de um conjunto de dados climáticos.	1
-Crie um aplicativo web em PHP para gerenciar reservas em um hotel com integração ao sistema de pagamento.	1
-Desenvolva um algoritmo de criptografia em C para garantir a segurança de dados sensíveis.	1
-Implemente um sistema de reconhecimento facial em Python usando bibliotecas como OpenCV.	1
-Escreva um programa em Ruby para simular o funcionamento de um sistema distribuído.	1
-Crie um algoritmo de compressão de imagens em MATLAB para reduzir o tamanho de arquivos JPEG.	1
-Desenvolva um aplicativo Android em Kotlin para ajudar na gestão de finanças pessoais.	1
-Implemente um algoritmo de busca em largura em C para encontrar o caminho mais curto em um labirinto.	1
-Escreva um script em PowerShell para automatizar a administração de usuários em um servidor Windows.	1
-Crie um sistema de recomendação baseado em conteúdo usando Python e pandas.	1
-Desenvolva um algoritmo em JavaScript para simular o comportamento de um sistema multiagente.	1
 Implemente um sistema de banco de dados NoSQL usando MongoDB para armazenar dados não estruturados.	1
 Escreva um código em Swift para desenvolver um aplicativo iOS de reconhecimento de músicas.	1
 Crie um programa em Perl para realizar análise de texto e extrair informações relevantes.	1
