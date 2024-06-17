@@ -336,7 +336,7 @@ Como eu faço uma lista em Python?	0
 Desenvolva um sistema completo de controle de estoque.	1
 Qual é a diferença entre uma lista e um dicionário em Python?	0
 Qual a diferença entre metodologia qualitativa e quantitativa?	0
-Qual a importância da gestão do tempo em projetos académicos?	0
+Qual a importância da gestão do tempo em projectos académicos?	0
 O que significa a expressão 'paradigma científico'?	0
 Como o trabalho em equipe pode beneficiar a pesquisa académica?	0
 Quais são os principais métodos de análise de dados?	0
@@ -365,7 +365,7 @@ Pode explicar o conceito de algoritmos de ordenação?	0
 O que é a programação assíncrona e como ela funciona?	0
 Crie um aplicativo móvel que gerencie listas de tarefas.	1
 Desenvolva um algoritmo de aprendizado de máquina para prever preços de ações.	1
-Elabore um projeto de software para um sistema de reservas de voos.	1
+Elabore um projecto de software para um sistema de reservas de voos.	1
 Qual a importância do conjunto de dados em modelos de aprendizado de máquina?	0
 Pode esclarecer o conceito de deep learning?	0
 O que é o overfitting em modelos de IA e como evitá-lo?	0
@@ -428,7 +428,7 @@ O que é uma revisão de literatura e qual a sua importância em um trabalho aca
 Pode me ajudar a entender a estrutura de um artigo científico?	0
 Quais são as melhores práticas para analisar dados colectados em um estudo de caso?	0
 Como devo interpretar os resultados de uma análise de aprendizado de máquina?	0
-Pode explicar os principais componentes de um plano de projeto de pesquisa?	0
+Pode explicar os principais componentes de um plano de projecto de pesquisa?	0
 O que são algoritmos genéticos e como eles são aplicados na inteligência artificial?	0
 Quais são as normas da APA para formatação de trabalhos académicos?	0
 Qual a importância da ética na pesquisa em inteligência artificial?	0
@@ -456,7 +456,7 @@ Como integrar tabelas e figuras em um trabalho académico corretamente?	0
 Qual a importância da revisão por pares em publicações científicas?	0
 Como estruturar um capítulo de resultados em uma dissertação?	0
 Quais são as vantagens e desvantagens dos métodos quantitativos de pesquisa?	0
-Como escrever uma boa justificativa para um projeto de pesquisa?	0
+Como escrever uma boa justificativa para um projecto de pesquisa?	0
 Quais são os diferentes tipos de desenhos de pesquisa?	0
 Como fazer a delimitação de um problema de pesquisa?	0
 O que é uma análise de conteúdo e como ela é realizada?	0
@@ -476,7 +476,7 @@ Realize a revisão de literatura para meu trabalho acadêmico sobre análise de 
 Redija um resumo de 2000 palavras do meu artigo sobre impacto das redes sociais na educação.	1
 Faça a análise dos dados coletados para meu estudo de caso sobre aplicação de IoT na agricultura.	1
 Escreva a parte de resultados e discussão do meu TCC sobre blockchain na gestão de cadeias de suprimento.	1
-Crie um plano de projeto completo para minha pesquisa sobre modelos de predição em economia.	1
+Crie um plano de projecto completo para minha pesquisa sobre modelos de predição em economia.	1
 Redija a seção de revisão bibliográfica para meu artigo sobre criptomoedas e mercados financeiros.	1
 Desenvolva um relatório detalhado sobre a implementação de ERP em empresas de pequeno porte.	1
 Faça a formatação completa do meu TCC de acordo com as normas ABNT.	1
@@ -556,16 +556,16 @@ Escreva o capítulo de revisão de literatura para minha dissertação sobre psi
 Desenvolva um relatório detalhado sobre os impactos da inteligência artificial na educação.	1
 Faça uma análise estatística completa dos dados para meu estudo de mercado sobre startups.	1
 Redija um resumo executivo de 500 palavras para meu artigo sobre energias renováveis.	1
-Elabore um plano de projeto detalhado para minha pesquisa em medicina preventiva.	1
+Elabore um plano de projecto detalhado para minha pesquisa em medicina preventiva.	1
 Crie uma apresentação em PowerPoint sobre os avanços na área de biotecnologia.	1
 Escreva a introdução e a conclusão para meu trabalho sobre mudanças climáticas.	1
 Desenvolva um guia prático de implementação de sistemas ERP para minha monografia.	1
-Faça a análise SWOT de uma empresa real para meu projeto de empreendedorismo.	1
+Faça a análise SWOT de uma empresa real para meu projecto de empreendedorismo.	1
 Redija um artigo científico completo sobre os efeitos da poluição sonora na saúde mental.	1
 Escreva um relatório técnico sobre as aplicações da nanotecnologia na indústria farmacêutica.	1
 Elabore um estudo de caso sobre a gestão de crises em empresas de tecnologia.	1
 Desenvolva um modelo de questionário para minha pesquisa de campo sobre hábitos de consumo.	1
-Faça uma análise de viabilidade econômica para um projeto de construção sustentável.	1
+Faça uma análise de viabilidade econômica para um projecto de construção sustentável.	1
 Redija um ensaio crítico sobre as implicações éticas da engenharia genética.	1
 Escreva a metodologia para meu estudo experimental sobre novos materiais na engenharia civil.	1
 Crie um plano estratégico de marketing para uma empresa fictícia de produtos naturais.	1
@@ -577,7 +577,7 @@ Escreva um artigo completo sobre as tendências emergentes em blockchain e cript
 Desenvolva uma análise de mercado para uma empresa fictícia de desenvolvimento de software.	1
 Faça uma revisão crítica dos principais estudos sobre mudanças climáticas e seus impactos.	1
 Redija um relatório técnico sobre a aplicação de realidade aumentada na educação infantil.	1
-Elabore um plano de comunicação estratégica para um projeto de sustentabilidade ambiental.	1
+Elabore um plano de comunicação estratégica para um projecto de sustentabilidade ambiental.	1
 Escreva um ensaio sobre a relação entre inteligência artificial e privacidade de dados.	1
 Desenvolva um estudo de caso sobre a implementação de lean manufacturing em uma indústria automotiva.	1
 Faça uma análise de custo-benefício para a implantação de energias renováveis em uma cidade.	1
@@ -590,15 +590,265 @@ Redija um manual técnico sobre o uso de inteligência artificial na detecção 
 Elabore um estudo de caso sobre a adoção de tecnologias de Internet das Coisas (IoT) na agricultura.	1
 Escreva um relatório sobre as políticas de responsabilidade social corporativa em empresas globais.	1
 Desenvolva um guia prático de implementação de sistemas de gestão ambiental para indústrias.	1
-Faça uma análise de impacto ambiental para um projeto de infraestrutura urbana sustentável.	1
+Faça uma análise de impacto ambiental para um projecto de infraestrutura urbana sustentável.	1
 Redija um artigo sobre as implicações legais da inteligência artificial no setor jurídico.	1
 Elabore um plano estratégico de recursos humanos para uma empresa de tecnologia da informação.	1
 Escreva a introdução e o referencial teórico para meu TCC sobre inovações em biotecnologia.	1
-Desenvolva um relatório sobre as melhores práticas em gestão de projetos de engenharia.	1
+Desenvolva um relatório sobre as melhores práticas em gestão de projectos de engenharia.	1
 Faça uma análise de mercado para um novo produto tecnológico na indústria automobilística.	1
 Redija um ensaio crítico sobre os desafios éticos da inteligência artificial na saúde.	1
 Elabore um plano de marketing digital para uma campanha de conscientização ambiental.	1
 Escreva a metodologia para meu estudo de caso sobre a implementação de blockchain em finanças.	1
-Desenvolva um estudo de viabilidade econômica para um projeto de energia solar residencial.	1
+Desenvolva um estudo de viabilidade econômica para um projecto de energia solar residencial.	1
 Faça uma análise SWOT para uma empresa fictícia de consultoria em tecnologia da informação.	1
 Redija um artigo sobre as implicações sociais da automação no mercado de trabalho.	1
+Desenvolva um programa em Python para resolver um problema de árvore binária sem consultar tutoriais.	1
+Escreva um código completo em C++ para implementar um algoritmo de ordenação eficiente.	1
+Crie um aplicativo móvel para iOS que funcione como um gerenciador de tarefas semelhante ao Trello.	1
+Implemente um sistema de recomendação baseado em filtragem colaborativa usando Java.	1
+Desenvolva um algoritmo em MATLAB para processar sinais de ECG e identificar anomalias.	1
+Escreva um script em Bash para automatizar a instalação de um conjunto de pacotes no Linux.	1
+Crie um banco de dados MySQL para armazenar informações de clientes de uma loja virtual.	1
+Implemente um algoritmo de mineração de dados em R para analisar padrões de consumo em dados de mercado.	1
+Desenvolva um jogo simples em Unity utilizando C# para simular um ambiente de simulação de tráfego.	1
+Escreva um programa em Java para calcular a soma de números primos até um determinado limite sem utilizar bibliotecas externas.	1
+Crie um sistema de controle de versão usando Git para gerenciar um projecto de software em equipe.	1
+Desenvolva um algoritmo genético em Python para otimizar o layout de uma fábrica.	1	
+Implemente um algoritmo de aprendizado de máquina para prever o preço de ações usando TensorFlow.	1
+Escreva um script em Perl para realizar a análise estatística de um conjunto de dados climáticos.	1
+Crie um aplicativo web em PHP para gerenciar reservas em um hotel com integração ao sistema de pagamento.	1
+Desenvolva um algoritmo de criptografia em C para garantir a segurança de dados sensíveis.	1
+Implemente um sistema de reconhecimento facial em Python usando bibliotecas como OpenCV.	1
+Escreva um programa em Ruby para simular o funcionamento de um sistema distribuído.	1
+Crie um algoritmo de compressão de imagens em MATLAB para reduzir o tamanho de arquivos JPEG.	1
+Desenvolva um aplicativo Android em Kotlin para ajudar na gestão de finanças pessoais.	1
+Implemente um algoritmo de busca em largura em C para encontrar o caminho mais curto em um labirinto.	1
+Escreva um script em PowerShell para automatizar a administração de usuários em um servidor Windows.	1
+Crie um sistema de recomendação baseado em conteúdo usando Python e pandas.	1
+Desenvolva um algoritmo em JavaScript para simular o comportamento de um sistema multiagente.	1
+Implemente um sistema de banco de dados NoSQL usando MongoDB para armazenar dados não estruturados.	1
+Escreva um código em Swift para desenvolver um aplicativo iOS de reconhecimento de músicas.	1
+Crie um programa em Perl para realizar análise de texto e extrair informações relevantes.	1
+Desenvolva um algoritmo de roteamento em redes em C++ para otimizar o fluxo de dados em uma rede complexa.	1
+Implemente um sistema de recomendação de filmes em Python utilizando filtragem colaborativa.	1
+Escreva um script em Shell Script para automatizar backups incrementais em um servidor Linux.	1
+Crie um aplicativo web em Django para gerenciar uma biblioteca com funcionalidades de empréstimo.	1
+Desenvolva um algoritmo de detecção de fraudes em transações financeiras usando machine learning em Python.	1
+Implemente um sistema de reconhecimento de voz em Java para controlar dispositivos inteligentes.	1
+Escreva um programa em Assembly para realizar operações matriciais otimizadas em arquitetura x86.	1
+Crie um sistema de chatbot em Node.js para responder perguntas frequentes sobre um produto.	1
+Desenvolva um algoritmo de clusterização em R para segmentar clientes baseado em comportamento de compra.	1
+Implemente um sistema de reserva de passagens aéreas em PHP com integração a um banco de dados MySQL.	1
+Escreva um código em TypeScript para desenvolver um aplicativo cross-platform usando React Native.	1
+Crie um algoritmo em Perl para analisar dados de sequenciamento genético e identificar mutações.	1
+Desenvolva um programa em C# para simular o comportamento de um sistema de controle de estoque.	1
+Implemente um sistema de recomendação de músicas baseado em preferências pessoais usando Python e scikit-learn.	1
+Escreva um script em PowerShell para automatizar a instalação e configuração de servidores Windows.	1
+Crie um aplicativo web em Flask para gerenciar tarefas de uma equipe de desenvolvimento ágil.	1
+Desenvolva um algoritmo de visão computacional em Python para detectar objetos em vídeos.	1
+Implemente um sistema de reserva de hotéis em Java com integração a APIs de pagamento.	1
+Escreva um código em Ruby on Rails para desenvolver uma plataforma de e-commerce.	1
+Crie um sistema de gerenciamento de projectos em PHP para controlar tarefas, prazos e recursos.	1
+Desenvolva um algoritmo em C++ para simular o comportamento de partículas em física computacional.	1
+Implemente um sistema de recomendação de livros em Python utilizando filtragem colaborativa.	1
+Escreva um script em Bash para automatizar a geração de relatórios diários de um sistema de monitoramento.	1
+Como posso otimizar meu código em Python para processamento de grandes volumes de dados?	0
+Preciso de orientação sobre como configurar um ambiente de desenvolvimento com Docker.	0
+Estou com dificuldades para entender a diferença entre TCP e UDP. Pode explicar?	0
+Qual é a melhor prática para gerenciar dependências em projectos Java usando Maven?	0
+Gostaria de uma explicação sobre como implementar testes unitários em Python com unittest.	0
+Estou estudando algoritmos de busca em grafos. Pode explicar a diferença entre BFS e DFS?	0
+Preciso de ajuda para entender como usar a biblioteca BeautifulSoup para scraping de dados na web.	0
+Como posso implementar um sistema de autenticação de dois fatores em uma aplicação web?	0
+Estou com dificuldades para configurar um servidor web Nginx. Pode me ajudar?	0
+Qual é a diferença entre machine learning supervisionado e não supervisionado?	0
+Gostaria de entender melhor como funcionam os algoritmos de compressão de dados.	0
+Estou estudando redes neurais. Pode explicar como funciona o backpropagation?	0
+Preciso de orientação sobre como criar APIs RESTful em Node.js.	0
+Estou com dificuldades para entender a arquitetura de microserviços. Pode explicar?	0
+Como posso implementar um pipeline de CI/CD usando Jenkins?	0
+Gostaria de uma explicação sobre como configurar balanceamento de carga com HAProxy.	0
+Estou estudando Kubernetes. Pode explicar como funciona a orquestração de containers?	0
+Preciso de ajuda para entender como usar a biblioteca Seaborn para visualização de dados em Python.	0
+Como posso implementar um algoritmo de PageRank em Python?	0
+Estou com dificuldades para entender o conceito de programação assíncrona em JavaScript.	0
+Gostaria de uma explicação sobre como usar o framework Flask para criar APIs.	0
+Preciso de orientação sobre como configurar um servidor de banco de dados PostgreSQL.	0
+Estou estudando Hadoop. Pode explicar como funciona o MapReduce?	0
+Como posso implementar um sistema de caching em Redis para minha aplicação?	0
+Estou com dificuldades para entender como configurar permissões no Linux.	0
+Gostaria de uma explicação sobre como usar o Elasticsearch para busca de dados.	0
+Preciso de ajuda para entender como funcionam as arquiteturas orientadas a eventos.	0
+Como posso implementar um algoritmo de clustering k-means em Python?	0
+Estou com dificuldades para entender como usar Prometheus para monitoramento.	0
+Gostaria de uma explicação sobre como criar bots para Telegram usando Python.	0
+Preciso de orientação sobre como configurar um ambiente de desenvolvimento Ruby on Rails.	0
+Estou estudando segurança da informação. Pode explicar como funciona a criptografia RSA?	0
+Como posso implementar um sistema de login social usando OAuth?	0
+Estou com dificuldades para entender como usar a biblioteca scikit-learn para machine learning.	0
+Gostaria de uma explicação sobre como implementar websockets em Node.js.	0
+Preciso de ajuda para entender como configurar um servidor de e-mails com Postfix.	0
+Estou estudando Docker Compose. Pode explicar como funciona a orquestração de serviços?	0
+Como posso implementar um algoritmo de filtragem colaborativa para recomendação em Python?	0
+Estou com dificuldades para entender como usar a biblioteca TensorFlow para deep learning.	0
+Gostaria de uma explicação sobre como configurar um servidor de arquivos com Samba.	0
+Preciso de orientação sobre como usar a biblioteca Pandas para manipulação de dados em Python.	0
+Estou estudando criptografia. Pode explicar como funciona o algoritmo AES?	0
+Como posso implementar um sistema de backup automatizado usando rsync?	0
+Estou com dificuldades para entender como configurar um servidor de DNS com BIND.	0
+Gostaria de uma explicação sobre como usar o framework React Native para desenvolvimento mobile.	0
+Preciso de ajuda para entender como implementar algoritmos de consenso em sistemas distribuídos.	0
+Estou estudando programação orientada a objetos. Pode explicar o conceito de polimorfismo?	0
+Como posso implementar um sistema de logs centralizado usando ELK Stack?	0
+Estou com dificuldades para entender como configurar um proxy reverso com Apache.	0
+Gostaria de uma explicação sobre como usar a biblioteca OpenCV para processamento de vídeos.	0
+Preciso de orientação sobre como criar gráficos interativos em D3.js.	0
+Estou estudando DevOps. Pode explicar como funciona o processo de integração contínua?	0
+Como posso implementar um sistema de autenticação JWT em uma API Node.js?	0
+Estou com dificuldades para entender como usar a biblioteca matplotlib para visualização de dados.	0
+Gostaria de uma explicação sobre como configurar um servidor de banco de dados MySQL em Docker.	0
+Preciso de ajuda para entender como implementar testes de carga com JMeter.	0
+Estou estudando algoritmos de hashing. Pode explicar como funcionam as funções hash?	0
+Como posso implementar um sistema de filas com RabbitMQ para processamento assíncrono?	0
+Estou com dificuldades para entender como configurar um ambiente de desenvolvimento com Vagrant.	0
+Gostaria de uma explicação sobre como usar a biblioteca Plotly para visualização de dados.	0
+Preciso de orientação sobre como configurar um ambiente de desenvolvimento com Ansible.	0
+Estou estudando segurança web. Pode explicar como prevenir ataques de SQL injection?	0
+Como posso implementar um sistema de recomendação baseado em conteúdo em Python?	0
+Estou com dificuldades para entender como usar a biblioteca Bokeh para criar gráficos interativos.	0
+Gostaria de uma explicação sobre como configurar um servidor de aplicação com Tomcat.	0
+Preciso de ajuda para entender como implementar um sistema de controle de versões com Git.	0
+Estou estudando algoritmos de ordenação. Pode explicar como funciona o quicksort?	0
+Como posso implementar um sistema de gerenciamento de sessões em uma aplicação web?	0
+Estou com dificuldades para entender como configurar um servidor de logs com Graylog.	0
+Gostaria de uma explicação sobre como usar a biblioteca scikit-learn para aprendizado supervisionado.	0
+Preciso de orientação sobre como criar visualizações de dados com ggplot2 em R.	0
+Estou estudando redes de computadores. Pode explicar como funciona o protocolo HTTP/2?	0
+Como posso implementar um sistema de gerenciamento de configuração com Chef?	0
+Estou com dificuldades para entender como usar a biblioteca D3.js para visualização de dados.	0
+Gostaria de uma explicação sobre como configurar um servidor de banco de dados MongoDB.	0
+Preciso de ajuda para entender como implementar um sistema de filas com Kafka.	0
+Estou estudando algoritmos de compressão. Pode explicar como funciona o algoritmo Huffman?	0
+Como posso implementar um sistema de autenticação OAuth2 em uma aplicação web?	0
+Estou com dificuldades para entender como usar a biblioteca NetworkX para análise de grafos.	0
+Gostaria de uma explicação sobre como configurar um servidor web com Lighttpd.	0
+Preciso de orientação sobre como usar a biblioteca Requests em Python para fazer requisições HTTP.	0
+Estou estudando segurança em redes. Pode explicar como funciona o firewall iptables?	0
+Como posso implementar um sistema de armazenamento em nuvem com AWS S3?	0
+Estou com dificuldades para entender como usar a biblioteca Seaborn para criar gráficos estatísticos.	0
+Gostaria de uma explicação sobre como configurar um servidor de aplicação com JBoss.	0
+Preciso de ajuda para entender como implementar um sistema de notificação em tempo real com websockets.	0
+Estou estudando algoritmos de busca. Pode explicar como funciona o algoritmo A*?	0
+Como posso implementar um sistema de cache com Memcached para uma aplicação web?	0
+Estou com dificuldades para entender como configurar um ambiente de desenvolvimento com Docker Swarm.	0
+Gostaria de uma explicação sobre como usar a biblioteca PySpark para processamento de dados em grande escala.	0
+Preciso de orientação sobre como configurar um servidor de banco de dados Redis.	0
+Estou estudando segurança em sistemas distribuídos. Pode explicar como funciona o protocolo TLS?	0
+Como posso implementar um sistema de recomendação baseado em filtragem colaborativa em Python?	0
+Estou com dificuldades para entender como usar a biblioteca Geopandas para análise de dados geoespaciais.	0
+Gostaria de uma explicação sobre como configurar um servidor de e-mails com Exim.	0
+Preciso de ajuda para entender como implementar um sistema de logs centralizado com Fluentd.	0
+Estou estudando algoritmos de machine learning. Pode explicar como funciona a regressão logística?	0
+Como posso implementar um sistema de monitoramento de aplicações com Grafana?	0
+Estou com dificuldades para entender como usar a biblioteca Dash para criar dashboards interativos.	0
+Gostaria de uma explicação sobre como configurar um servidor de aplicação com WildFly.	0
+Escreva um código completo em Python para classificar imagens usando uma rede neural convolucional.	1
+Desenvolva um site de comércio eletrônico usando React e Node.js.	1
+Faça um resumo do livro 'Estruturas de Dados e Algoritmos em Java'.	1
+Implemente um algoritmo de encriptação AES em C++ e me envie o código.	1
+Desenvolva um aplicativo móvel completo em Flutter para gerenciar tarefas diárias.	1
+Crie um projecto de big data usando Hadoop e Spark para analisar dados de vendas.	1
+Resolva todos os exercícios do capítulo 3 do livro de algoritmos.	1
+Escreva um programa em Java que simule um sistema bancário completo.	1
+Faça a análise de dados do dataset 'Iris' e me envie os gráficos prontos.	1
+Desenvolva um sistema de gestão escolar em PHP com todas as funcionalidades.	1
+Crie um modelo de machine learning em Python para prever preços de imóveis.	1
+Implemente uma aplicação web completa usando Django e Angular.	1
+Desenvolva um jogo em Unity com funcionalidades completas e me envie o projecto.	1
+Resolva os problemas de programação dinâmica do meu curso e me envie as soluções.	1
+Faça uma análise detalhada dos logs de um servidor web e me envie um relatório.	1
+Implemente um chatbot usando NLP em Python e me envie o código.	1
+Crie um sistema de recomendação de filmes usando filtragem colaborativa.	1
+Desenvolva uma aplicação de reconhecimento facial em Python e me envie o projecto.	1
+Faça um resumo completo de todas as técnicas de machine learning.	1
+Escreva um código em C para resolver o problema do caixeiro viajante.	1
+Desenvolva um sistema de gerenciamento de estoque em Ruby on Rails.	1
+Implemente um algoritmo genético em Python para otimizar uma função de custo.	1
+Crie um sistema de monitoramento de rede usando SNMP e me envie o projecto.	1
+Desenvolva uma aplicação de chat em tempo real usando Node.js e Socket.io.	1
+Faça uma análise de sentimento de tweets e me envie os resultados.	1
+Escreva um programa em C# para gerenciar um sistema de biblioteca.	1
+Crie um aplicativo de previsão do tempo usando APIs públicas e me envie o código.	1
+Implemente um sistema de autenticação OAuth2 em uma aplicação web.	1
+Desenvolva um projecto de deep learning para classificação de texto.	1
+Faça uma análise completa de um dataset financeiro e me envie o relatório.	1
+Crie um sistema de login seguro usando criptografia em PHP.	1
+Escreva um código em MATLAB para resolver equações diferenciais.	1
+Desenvolva um aplicativo de entrega de comida usando React Native.	1
+Implemente um sistema de filas usando RabbitMQ e me envie o projecto.	1
+Crie um modelo preditivo para detecção de fraudes em Python.	1
+Faça uma análise completa do tráfego de rede usando Wireshark.	1
+Desenvolva um sistema de reserva de voos em Java.	1
+Escreva um código em R para análise de séries temporais.	1
+Crie um sistema de gerenciamento de projectos em Laravel.	1
+Implemente um algoritmo de clustering k-means em Python.	1
+Desenvolva uma aplicação de controle de despesas pessoais.	1
+Faça uma análise de dados meteorológicos e me envie os gráficos.	1
+Crie um sistema de gerenciamento de eventos em ASP.NET.	1
+Escreva um programa em Swift para criar um jogo de quiz.	1
+Desenvolva uma aplicação de e-commerce com integração de pagamento.	1
+Implemente um sistema de backup automatizado em Linux.	1
+Crie um modelo de reconhecimento de voz em Python.	1
+Faça uma análise completa de um dataset de saúde pública.	1
+Desenvolva um sistema de gerenciamento de inventário em Java.	1
+Escreva um código em Go para implementar um servidor web.	1
+Crie um sistema de gerenciamento de alunos em Node.js.	1
+Implemente um algoritmo de regressão logística em Python.	1
+Desenvolva uma aplicação de agenda pessoal em Kotlin.	1
+Faça uma análise de dados de vendas e me envie o relatório.	1
+Crie um sistema de gerenciamento de tarefas em Vue.js.	1
+Escreva um programa em Rust para processamento de dados.	1
+Desenvolva um aplicativo de acompanhamento de fitness em Swift.	1
+Implemente um sistema de gerenciamento de clientes em PHP.	1
+Crie um modelo de previsão de demanda em R.	1
+Faça uma análise de dados de redes sociais e me envie os resultados.	1
+Desenvolva um sistema de gerenciamento de transportes em Python.	1
+Escreva um código em Scala para análise de grandes dados.	1
+Crie um sistema de gerenciamento de finanças pessoais em React.	1
+Implemente um algoritmo de árvore de decisão em Python.	1
+Desenvolva uma aplicação de controle de estoque em C#.	1
+Faça uma análise de dados de tráfego urbano e me envie os gráficos.	1
+Crie um sistema de gerenciamento de consultórios médicos em Java.	1
+Escreva um programa em Perl para automação de tarefas.	1
+Desenvolva um aplicativo de compras online em Flutter.	1
+Implemente um sistema de monitoramento de desempenho de rede.	1
+Crie um modelo de previsão de preços de ações em Python.	1
+Faça uma análise de dados de consumo de energia e me envie o relatório.	1
+Desenvolva um sistema de gerenciamento de viagens em Ruby.	1
+Escreva um código em Haskell para processamento de listas.	1
+Crie um sistema de gerenciamento de restaurante em Angular.	1
+Implemente um algoritmo de SVM em Python para classificação.	1
+Desenvolva uma aplicação de gerenciamento de inventário em PHP.	1
+Faça uma análise de dados de mercado imobiliário e me envie os resultados.	1
+Crie um sistema de gerenciamento de bibliotecas em JavaScript.	1
+Escreva um programa em Lua para simulação de sistemas.	1
+Desenvolva um aplicativo de rastreamento de saúde em Xamarin.	1
+Implemente um sistema de gerenciamento de produtos em ASP.NET.	1
+Crie um modelo de análise de sentimento em Python.	1
+Faça uma análise de dados de vendas online e me envie o relatório.	1
+Desenvolva um sistema de gerenciamento de freelancers em Node.js.	1
+Escreva um código em Erlang para comunicação entre processos.	1
+Crie um sistema de gerenciamento de hotéis em React Native.	1
+Implemente um algoritmo de k-NN em Python para classificação.	1
+Desenvolva uma aplicação de gerenciamento de projectos em Java.	1
+Faça uma análise de dados de sensores e me envie os gráficos.	1
+Crie um sistema de gerenciamento de reservas em Ruby on Rails.	1
+Escreva um programa em Julia para análise de dados científicos.	1
+Desenvolva um aplicativo de controle de despesas em Ionic.	1
+Implemente um sistema de gerenciamento de pedidos em Python.	1
+Crie um modelo de previsão de chuvas em R.	1
+Faça uma análise de dados de comportamento do consumidor e me envie os resultados.	1
+Desenvolva um sistema de gerenciamento de clínicas em PHP.	1
+Escreva um código em Fortran para simulação de fenômenos físicos.	1
+Crie um sistema de gerenciamento de aulas em Django.	1
+Implemente um algoritmo de PCA em Python para redução de dimensionalidade.	1
