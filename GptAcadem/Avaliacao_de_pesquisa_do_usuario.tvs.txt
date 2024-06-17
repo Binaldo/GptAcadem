@@ -652,7 +652,7 @@ Implemente um sistema de reserva de passagens aéreas em PHP com integração a 
 Escreva um código em TypeScript para desenvolver um aplicativo cross-platform usando React Native.	1
 Crie um algoritmo em Perl para analisar dados de sequenciamento genético e identificar mutações.	1
 Desenvolva um programa em C# para simular o comportamento de um sistema de controle de estoque.	1
-Implemente um sistema de recomendação de músicas baseado em preferências pessoais usando Python e scikit-learn.1
+Implemente um sistema de recomendação de músicas baseado em preferências pessoais usando Python e scikit-learn.	1
 Escreva um script em PowerShell para automatizar a instalação e configuração de servidores Windows.	1
 Crie um aplicativo web em Flask para gerenciar tarefas de uma equipe de desenvolvimento ágil.	1
 Desenvolva um algoritmo de visão computacional em Python para detectar objetos em vídeos.	1
@@ -767,7 +767,7 @@ Desenvolva um site de comércio eletrônico usando React e Node.js.	1
 Faça um resumo do livro 'Estruturas de Dados e Algoritmos em Java'.	1
 Implemente um algoritmo de encriptação AES em C++ e me envie o código.	1
 Desenvolva um aplicativo móvel completo em Flutter para gerenciar tarefas diárias.	1
-Crie um projecto de big data usando Hadoop e Spark para analisar dados de vendas.1
+Crie um projecto de big data usando Hadoop e Spark para analisar dados de vendas.	1
 Resolva todos os exercícios do capítulo 3 do livro de algoritmos.	1
 Escreva um programa em Java que simule um sistema bancário completo.	1
 Faça a análise de dados do dataset 'Iris' e me envie os gráficos prontos.	1
@@ -804,7 +804,7 @@ Crie um sistema de gerenciamento de projectos em Laravel.	1
 Implemente um algoritmo de clustering k-means em Python.	1
 Desenvolva uma aplicação de controle de despesas pessoais.	1
 Faça uma análise de dados meteorológicos e me envie os gráficos.	1
-Crie um sistema de gerenciamento de eventos em ASP.NET.1
+Crie um sistema de gerenciamento de eventos em ASP.NET.	1
 Escreva um programa em Swift para criar um jogo de quiz.	1
 Desenvolva uma aplicação de e-commerce com integração de pagamento.	1
 Implemente um sistema de backup automatizado em Linux.	1
