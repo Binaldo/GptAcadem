@@ -678,23 +678,3 @@ Preciso de orientação sobre como criar APIs RESTful em Node.js.	0
 Estou com dificuldades para entender a arquitetura de microserviços. Pode explicar?	0
 Como posso implementar um pipeline de CI/CD usando Jenkins?	0
 Gostaria de uma explicação sobre como configurar balanceamento de carga com HAProxy.	0
-Estou estudando Kubernetes. Pode explicar como funciona a orquestração de containers?	0
-Preciso de ajuda para entender como usar a biblioteca Seaborn para visualização de dados em Python.	0
-Como posso implementar um algoritmo de PageRank em Python?	0
-Estou com dificuldades para entender o conceito de programação assíncrona em JavaScript.	0
-Gostaria de uma explicação sobre como usar o framework Flask para criar APIs.	0
-Preciso de orientação sobre como configurar um servidor de banco de dados PostgreSQL.	0
-Estou estudando Hadoop. Pode explicar como funciona o MapReduce?	0
-Como posso implementar um sistema de caching em Redis para minha aplicação?	0
-Estou com dificuldades para entender como configurar permissões no Linux.	0
-Gostaria de uma explicação sobre como usar o Elasticsearch para busca de dados.	0
-Preciso de ajuda para entender como funcionam as arquiteturas orientadas a eventos.	0
-Como posso implementar um algoritmo de clustering k-means em Python?	0
-Estou com dificuldades para entender como usar Prometheus para monitoramento.	0
-Gostaria de uma explicação sobre como criar bots para Telegram usando Python.	0
-Preciso de orientação sobre como configurar um ambiente de desenvolvimento Ruby on Rails.	0
-Estou estudando segurança da informação. Pode explicar como funciona a criptografia RSA?	0
-Como posso implementar um sistema de login social usando OAuth?	0
-Estou com dificuldades para entender como usar a biblioteca scikit-learn para machine learning.	0
-Gostaria de uma explicação sobre como implementar websockets em Node.js.	0
-Preciso de ajuda para entender como configurar um servidor de e-mails com Postfix.	0
