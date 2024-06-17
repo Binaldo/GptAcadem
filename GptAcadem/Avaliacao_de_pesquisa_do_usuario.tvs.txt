@@ -627,6 +627,17 @@ Crie um sistema de recomendação baseado em conteúdo usando Python e pandas.	1
 Desenvolva um algoritmo em JavaScript para simular o comportamento de um sistema multiagente.	1
 Implemente um sistema de banco de dados NoSQL usando MongoDB para armazenar dados não estruturados.	1
 Escreva um código em Swift para desenvolver um aplicativo iOS de reconhecimento de músicas.	1
+Crie um aplicativo web em PHP para gerenciar reservas em um hotel com integração ao sistema de pagamento.	1
+Implemente um sistema de reconhecimento facial em Python usando bibliotecas como OpenCV.	1
+Escreva um programa em Ruby para simular o funcionamento de um sistema distribuído.	1
+Crie um algoritmo de compressão de imagens em MATLAB para reduzir o tamanho de arquivos JPEG.	1
+Desenvolva um aplicativo Android em Kotlin para ajudar na gestão de finanças pessoais.	1
+Implemente um algoritmo de busca em largura em C para encontrar o caminho mais curto em um labirinto.	1
+Escreva um script em PowerShell para automatizar a administração de usuários em um servidor Windows.	1
+Crie um sistema de recomendação baseado em conteúdo usando Python e pandas.	1
+Desenvolva um algoritmo em JavaScript para simular o comportamento de um sistema multiagente.	1
+Implemente um sistema de banco de dados NoSQL usando MongoDB para armazenar dados não estruturados.	1
+Escreva um código em Swift para desenvolver um aplicativo iOS de reconhecimento de músicas.	1
 Crie um programa em Perl para realizar análise de texto e extrair informações relevantes.	1
 Desenvolva um algoritmo de roteamento em redes em C++ para otimizar o fluxo de dados em uma rede complexa.	1
 Implemente um sistema de recomendação de filmes em Python utilizando filtragem colaborativa.	1
@@ -641,7 +652,7 @@ Implemente um sistema de reserva de passagens aéreas em PHP com integração a 
 Escreva um código em TypeScript para desenvolver um aplicativo cross-platform usando React Native.	1
 Crie um algoritmo em Perl para analisar dados de sequenciamento genético e identificar mutações.	1
 Desenvolva um programa em C# para simular o comportamento de um sistema de controle de estoque.	1
-Implemente um sistema de recomendação de músicas baseado em preferências pessoais usando Python e scikit-learn.	1
+Implemente um sistema de recomendação de músicas baseado em preferências pessoais usando Python e scikit-learn.1
 Escreva um script em PowerShell para automatizar a instalação e configuração de servidores Windows.	1
 Crie um aplicativo web em Flask para gerenciar tarefas de uma equipe de desenvolvimento ágil.	1
 Desenvolva um algoritmo de visão computacional em Python para detectar objetos em vídeos.	1
@@ -651,203 +662,3 @@ Crie um sistema de gerenciamento de projectos em PHP para controlar tarefas, pra
 Desenvolva um algoritmo em C++ para simular o comportamento de partículas em física computacional.	1
 Implemente um sistema de recomendação de livros em Python utilizando filtragem colaborativa.	1
 Escreva um script em Bash para automatizar a geração de relatórios diários de um sistema de monitoramento.	1
-Como posso otimizar meu código em Python para processamento de grandes volumes de dados?	0
-Preciso de orientação sobre como configurar um ambiente de desenvolvimento com Docker.	0
-Estou com dificuldades para entender a diferença entre TCP e UDP. Pode explicar?	0
-Qual é a melhor prática para gerenciar dependências em projectos Java usando Maven?	0
-Gostaria de uma explicação sobre como implementar testes unitários em Python com unittest.	0
-Estou estudando algoritmos de busca em grafos. Pode explicar a diferença entre BFS e DFS?	0
-Preciso de ajuda para entender como usar a biblioteca BeautifulSoup para scraping de dados na web.	0
-Como posso implementar um sistema de autenticação de dois fatores em uma aplicação web?	0
-Estou com dificuldades para configurar um servidor web Nginx. Pode me ajudar?	0
-Qual é a diferença entre machine learning supervisionado e não supervisionado?	0
-Gostaria de entender melhor como funcionam os algoritmos de compressão de dados.	0
-Estou estudando redes neurais. Pode explicar como funciona o backpropagation?	0
-Preciso de orientação sobre como criar APIs RESTful em Node.js.	0
-Estou com dificuldades para entender a arquitetura de microserviços. Pode explicar?	0
-Como posso implementar um pipeline de CI/CD usando Jenkins?	0
-Gostaria de uma explicação sobre como configurar balanceamento de carga com HAProxy.	0
-Estou estudando Kubernetes. Pode explicar como funciona a orquestração de containers?	0
-Preciso de ajuda para entender como usar a biblioteca Seaborn para visualização de dados em Python.	0
-Como posso implementar um algoritmo de PageRank em Python?	0
-Estou com dificuldades para entender o conceito de programação assíncrona em JavaScript.	0
-Gostaria de uma explicação sobre como usar o framework Flask para criar APIs.	0
-Preciso de orientação sobre como configurar um servidor de banco de dados PostgreSQL.	0
-Estou estudando Hadoop. Pode explicar como funciona o MapReduce?	0
-Como posso implementar um sistema de caching em Redis para minha aplicação?	0
-Estou com dificuldades para entender como configurar permissões no Linux.	0
-Gostaria de uma explicação sobre como usar o Elasticsearch para busca de dados.	0
-Preciso de ajuda para entender como funcionam as arquiteturas orientadas a eventos.	0
-Como posso implementar um algoritmo de clustering k-means em Python?	0
-Estou com dificuldades para entender como usar Prometheus para monitoramento.	0
-Gostaria de uma explicação sobre como criar bots para Telegram usando Python.	0
-Preciso de orientação sobre como configurar um ambiente de desenvolvimento Ruby on Rails.	0
-Estou estudando segurança da informação. Pode explicar como funciona a criptografia RSA?	0
-Como posso implementar um sistema de login social usando OAuth?	0
-Estou com dificuldades para entender como usar a biblioteca scikit-learn para machine learning.	0
-Gostaria de uma explicação sobre como implementar websockets em Node.js.	0
-Preciso de ajuda para entender como configurar um servidor de e-mails com Postfix.	0
-Estou estudando Docker Compose. Pode explicar como funciona a orquestração de serviços?	0
-Como posso implementar um algoritmo de filtragem colaborativa para recomendação em Python?	0
-Estou com dificuldades para entender como usar a biblioteca TensorFlow para deep learning.	0
-Gostaria de uma explicação sobre como configurar um servidor de arquivos com Samba.	0
-Preciso de orientação sobre como usar a biblioteca Pandas para manipulação de dados em Python.	0
-Estou estudando criptografia. Pode explicar como funciona o algoritmo AES?	0
-Como posso implementar um sistema de backup automatizado usando rsync?	0
-Estou com dificuldades para entender como configurar um servidor de DNS com BIND.	0
-Gostaria de uma explicação sobre como usar o framework React Native para desenvolvimento mobile.	0
-Preciso de ajuda para entender como implementar algoritmos de consenso em sistemas distribuídos.	0
-Estou estudando programação orientada a objetos. Pode explicar o conceito de polimorfismo?	0
-Como posso implementar um sistema de logs centralizado usando ELK Stack?	0
-Estou com dificuldades para entender como configurar um proxy reverso com Apache.	0
-Gostaria de uma explicação sobre como usar a biblioteca OpenCV para processamento de vídeos.	0
-Preciso de orientação sobre como criar gráficos interativos em D3.js.	0
-Estou estudando DevOps. Pode explicar como funciona o processo de integração contínua?	0
-Como posso implementar um sistema de autenticação JWT em uma API Node.js?	0
-Estou com dificuldades para entender como usar a biblioteca matplotlib para visualização de dados.	0
-Gostaria de uma explicação sobre como configurar um servidor de banco de dados MySQL em Docker.	0
-Preciso de ajuda para entender como implementar testes de carga com JMeter.	0
-Estou estudando algoritmos de hashing. Pode explicar como funcionam as funções hash?	0
-Como posso implementar um sistema de filas com RabbitMQ para processamento assíncrono?	0
-Estou com dificuldades para entender como configurar um ambiente de desenvolvimento com Vagrant.	0
-Gostaria de uma explicação sobre como usar a biblioteca Plotly para visualização de dados.	0
-Preciso de orientação sobre como configurar um ambiente de desenvolvimento com Ansible.	0
-Estou estudando segurança web. Pode explicar como prevenir ataques de SQL injection?	0
-Como posso implementar um sistema de recomendação baseado em conteúdo em Python?	0
-Estou com dificuldades para entender como usar a biblioteca Bokeh para criar gráficos interativos.	0
-Gostaria de uma explicação sobre como configurar um servidor de aplicação com Tomcat.	0
-Preciso de ajuda para entender como implementar um sistema de controle de versões com Git.	0
-Estou estudando algoritmos de ordenação. Pode explicar como funciona o quicksort?	0
-Como posso implementar um sistema de gerenciamento de sessões em uma aplicação web?	0
-Estou com dificuldades para entender como configurar um servidor de logs com Graylog.	0
-Gostaria de uma explicação sobre como usar a biblioteca scikit-learn para aprendizado supervisionado.	0
-Preciso de orientação sobre como criar visualizações de dados com ggplot2 em R.	0
-Estou estudando redes de computadores. Pode explicar como funciona o protocolo HTTP/2?	0
-Como posso implementar um sistema de gerenciamento de configuração com Chef?	0
-Estou com dificuldades para entender como usar a biblioteca D3.js para visualização de dados.	0
-Gostaria de uma explicação sobre como configurar um servidor de banco de dados MongoDB.	0
-Preciso de ajuda para entender como implementar um sistema de filas com Kafka.	0
-Estou estudando algoritmos de compressão. Pode explicar como funciona o algoritmo Huffman?	0
-Como posso implementar um sistema de autenticação OAuth2 em uma aplicação web?	0
-Estou com dificuldades para entender como usar a biblioteca NetworkX para análise de grafos.	0
-Gostaria de uma explicação sobre como configurar um servidor web com Lighttpd.	0
-Preciso de orientação sobre como usar a biblioteca Requests em Python para fazer requisições HTTP.	0
-Estou estudando segurança em redes. Pode explicar como funciona o firewall iptables?	0
-Como posso implementar um sistema de armazenamento em nuvem com AWS S3?	0
-Estou com dificuldades para entender como usar a biblioteca Seaborn para criar gráficos estatísticos.	0
-Gostaria de uma explicação sobre como configurar um servidor de aplicação com JBoss.	0
-Preciso de ajuda para entender como implementar um sistema de notificação em tempo real com websockets.	0
-Estou estudando algoritmos de busca. Pode explicar como funciona o algoritmo A*?	0
-Como posso implementar um sistema de cache com Memcached para uma aplicação web?	0
-Estou com dificuldades para entender como configurar um ambiente de desenvolvimento com Docker Swarm.	0
-Gostaria de uma explicação sobre como usar a biblioteca PySpark para processamento de dados em grande escala.	0
-Preciso de orientação sobre como configurar um servidor de banco de dados Redis.	0
-Estou estudando segurança em sistemas distribuídos. Pode explicar como funciona o protocolo TLS?	0
-Como posso implementar um sistema de recomendação baseado em filtragem colaborativa em Python?	0
-Estou com dificuldades para entender como usar a biblioteca Geopandas para análise de dados geoespaciais.	0
-Gostaria de uma explicação sobre como configurar um servidor de e-mails com Exim.	0
-Preciso de ajuda para entender como implementar um sistema de logs centralizado com Fluentd.	0
-Estou estudando algoritmos de machine learning. Pode explicar como funciona a regressão logística?	0
-Como posso implementar um sistema de monitoramento de aplicações com Grafana?	0
-Estou com dificuldades para entender como usar a biblioteca Dash para criar dashboards interativos.	0
-Gostaria de uma explicação sobre como configurar um servidor de aplicação com WildFly.	0
-Escreva um código completo em Python para classificar imagens usando uma rede neural convolucional.	1
-Desenvolva um site de comércio eletrônico usando React e Node.js.	1
-Faça um resumo do livro 'Estruturas de Dados e Algoritmos em Java'.	1
-Implemente um algoritmo de encriptação AES em C++ e me envie o código.	1
-Desenvolva um aplicativo móvel completo em Flutter para gerenciar tarefas diárias.	1
-Crie um projecto de big data usando Hadoop e Spark para analisar dados de vendas.	1
-Resolva todos os exercícios do capítulo 3 do livro de algoritmos.	1
-Escreva um programa em Java que simule um sistema bancário completo.	1
-Faça a análise de dados do dataset 'Iris' e me envie os gráficos prontos.	1
-Desenvolva um sistema de gestão escolar em PHP com todas as funcionalidades.	1
-Crie um modelo de machine learning em Python para prever preços de imóveis.	1
-Implemente uma aplicação web completa usando Django e Angular.	1
-Desenvolva um jogo em Unity com funcionalidades completas e me envie o projecto.	1
-Resolva os problemas de programação dinâmica do meu curso e me envie as soluções.	1
-Faça uma análise detalhada dos logs de um servidor web e me envie um relatório.	1
-Implemente um chatbot usando NLP em Python e me envie o código.	1
-Crie um sistema de recomendação de filmes usando filtragem colaborativa.	1
-Desenvolva uma aplicação de reconhecimento facial em Python e me envie o projecto.	1
-Faça um resumo completo de todas as técnicas de machine learning.	1
-Escreva um código em C para resolver o problema do caixeiro viajante.	1
-Desenvolva um sistema de gerenciamento de estoque em Ruby on Rails.	1
-Implemente um algoritmo genético em Python para otimizar uma função de custo.	1
-Crie um sistema de monitoramento de rede usando SNMP e me envie o projecto.	1
-Desenvolva uma aplicação de chat em tempo real usando Node.js e Socket.io.	1
-Faça uma análise de sentimento de tweets e me envie os resultados.	1
-Escreva um programa em C# para gerenciar um sistema de biblioteca.	1
-Crie um aplicativo de previsão do tempo usando APIs públicas e me envie o código.	1
-Implemente um sistema de autenticação OAuth2 em uma aplicação web.	1
-Desenvolva um projecto de deep learning para classificação de texto.	1
-Faça uma análise completa de um dataset financeiro e me envie o relatório.	1
-Crie um sistema de login seguro usando criptografia em PHP.	1
-Escreva um código em MATLAB para resolver equações diferenciais.	1
-Desenvolva um aplicativo de entrega de comida usando React Native.	1
-Implemente um sistema de filas usando RabbitMQ e me envie o projecto.	1
-Crie um modelo preditivo para detecção de fraudes em Python.	1
-Faça uma análise completa do tráfego de rede usando Wireshark.	1
-Desenvolva um sistema de reserva de voos em Java.	1
-Escreva um código em R para análise de séries temporais.	1
-Crie um sistema de gerenciamento de projectos em Laravel.	1
-Implemente um algoritmo de clustering k-means em Python.	1
-Desenvolva uma aplicação de controle de despesas pessoais.	1
-Faça uma análise de dados meteorológicos e me envie os gráficos.	1
-Crie um sistema de gerenciamento de eventos em ASP.NET.	1
-Escreva um programa em Swift para criar um jogo de quiz.	1
-Desenvolva uma aplicação de e-commerce com integração de pagamento.	1
-Implemente um sistema de backup automatizado em Linux.	1
-Crie um modelo de reconhecimento de voz em Python.	1
-Faça uma análise completa de um dataset de saúde pública.	1
-Desenvolva um sistema de gerenciamento de inventário em Java.	1
-Escreva um código em Go para implementar um servidor web.	1
-Crie um sistema de gerenciamento de alunos em Node.js.	1
-Implemente um algoritmo de regressão logística em Python.	1
-Desenvolva uma aplicação de agenda pessoal em Kotlin.	1
-Faça uma análise de dados de vendas e me envie o relatório.	1
-Crie um sistema de gerenciamento de tarefas em Vue.js.	1
-Escreva um programa em Rust para processamento de dados.	1
-Desenvolva um aplicativo de acompanhamento de fitness em Swift.	1
-Implemente um sistema de gerenciamento de clientes em PHP.	1
-Crie um modelo de previsão de demanda em R.	1
-Faça uma análise de dados de redes sociais e me envie os resultados.	1
-Desenvolva um sistema de gerenciamento de transportes em Python.	1
-Escreva um código em Scala para análise de grandes dados.	1
-Crie um sistema de gerenciamento de finanças pessoais em React.	1
-Implemente um algoritmo de árvore de decisão em Python.	1
-Desenvolva uma aplicação de controle de estoque em C#.	1
-Faça uma análise de dados de tráfego urbano e me envie os gráficos.	1
-Crie um sistema de gerenciamento de consultórios médicos em Java.	1
-Escreva um programa em Perl para automação de tarefas.	1
-Desenvolva um aplicativo de compras online em Flutter.	1
-Implemente um sistema de monitoramento de desempenho de rede.	1
-Crie um modelo de previsão de preços de ações em Python.	1
-Faça uma análise de dados de consumo de energia e me envie o relatório.	1
-Desenvolva um sistema de gerenciamento de viagens em Ruby.	1
-Escreva um código em Haskell para processamento de listas.	1
-Crie um sistema de gerenciamento de restaurante em Angular.	1
-Implemente um algoritmo de SVM em Python para classificação.	1
-Desenvolva uma aplicação de gerenciamento de inventário em PHP.	1
-Faça uma análise de dados de mercado imobiliário e me envie os resultados.	1
-Crie um sistema de gerenciamento de bibliotecas em JavaScript.	1
-Escreva um programa em Lua para simulação de sistemas.	1
-Desenvolva um aplicativo de rastreamento de saúde em Xamarin.	1
-Implemente um sistema de gerenciamento de produtos em ASP.NET.	1
-Crie um modelo de análise de sentimento em Python.	1
-Faça uma análise de dados de vendas online e me envie o relatório.	1
-Desenvolva um sistema de gerenciamento de freelancers em Node.js.	1
-Escreva um código em Erlang para comunicação entre processos.	1
-Crie um sistema de gerenciamento de hotéis em React Native.	1
-Implemente um algoritmo de k-NN em Python para classificação.	1
-Desenvolva uma aplicação de gerenciamento de projectos em Java.	1
-Faça uma análise de dados de sensores e me envie os gráficos.	1
-Crie um sistema de gerenciamento de reservas em Ruby on Rails.	1
-Escreva um programa em Julia para análise de dados científicos.	1
-Desenvolva um aplicativo de controle de despesas em Ionic.	1
-Implemente um sistema de gerenciamento de pedidos em Python.	1
-Crie um modelo de previsão de chuvas em R.	1
-Faça uma análise de dados de comportamento do consumidor e me envie os resultados.	1
-Desenvolva um sistema de gerenciamento de clínicas em PHP.	1
-Escreva um código em Fortran para simulação de fenômenos físicos.	1
-Crie um sistema de gerenciamento de aulas em Django.	1
-Implemente um algoritmo de PCA em Python para redução de dimensionalidade.	1
